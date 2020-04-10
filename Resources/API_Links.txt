@@ -7,3 +7,5 @@ https://data.humdata.org/dataset/coronavirus-covid-19-cases-data-for-china-and-t
 CDC API:
 https://open.cdc.gov/apis.html
 
+Random: Not sure if this is legit
+https://rapidapi.com/collection/coronavirus-covid-19
