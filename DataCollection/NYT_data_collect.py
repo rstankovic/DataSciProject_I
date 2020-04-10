@@ -22,6 +22,7 @@ def NYT_collect():
             statesOrCounties = input('would you like to grab the states or counties\
                 data? (answer s or c)')
     file_path = f'{directoryName}/us-{statesOrCounties}.csv'
-    print(file_path)
+    
     NYT_df = pd.read_csv(file_path)
-    print(NYT_df)
+    directoryName = input("please provide relative path of directory for .csv storage: ")
+    NYT_df.to_csv(f'{directoryName}/NYT_{statesOrCounties}_data.csv')
