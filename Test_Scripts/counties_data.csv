@@ -1,0 +1,2630 @@
+,date,county,cases,deaths,state
+45880,2020-04-10,Autauga,17,1,Alabama
+45881,2020-04-10,Baldwin,59,1,Alabama
+45882,2020-04-10,Barbour,9,0,Alabama
+45883,2020-04-10,Bibb,11,0,Alabama
+45884,2020-04-10,Blount,12,0,Alabama
+45885,2020-04-10,Bullock,4,0,Alabama
+45886,2020-04-10,Butler,3,0,Alabama
+45887,2020-04-10,Calhoun,54,0,Alabama
+45888,2020-04-10,Chambers,171,8,Alabama
+45889,2020-04-10,Cherokee,7,0,Alabama
+45890,2020-04-10,Chilton,27,0,Alabama
+45891,2020-04-10,Choctaw,7,0,Alabama
+45892,2020-04-10,Clarke,13,0,Alabama
+45893,2020-04-10,Clay,11,0,Alabama
+45894,2020-04-10,Cleburne,12,0,Alabama
+45895,2020-04-10,Coffee,14,0,Alabama
+45896,2020-04-10,Colbert,8,1,Alabama
+45897,2020-04-10,Conecuh,3,0,Alabama
+45898,2020-04-10,Coosa,10,0,Alabama
+45899,2020-04-10,Covington,10,0,Alabama
+45900,2020-04-10,Crenshaw,2,0,Alabama
+45901,2020-04-10,Cullman,30,1,Alabama
+45902,2020-04-10,Dale,6,0,Alabama
+45903,2020-04-10,Dallas,11,0,Alabama
+45904,2020-04-10,DeKalb,18,0,Alabama
+45905,2020-04-10,Elmore,30,0,Alabama
+45906,2020-04-10,Escambia,6,0,Alabama
+45907,2020-04-10,Etowah,64,5,Alabama
+45908,2020-04-10,Fayette,2,0,Alabama
+45909,2020-04-10,Franklin,8,0,Alabama
+45910,2020-04-10,Greene,13,0,Alabama
+45911,2020-04-10,Hale,7,0,Alabama
+45912,2020-04-10,Henry,10,0,Alabama
+45913,2020-04-10,Houston,33,1,Alabama
+45914,2020-04-10,Jackson,22,2,Alabama
+45915,2020-04-10,Jefferson,555,14,Alabama
+45916,2020-04-10,Lamar,7,0,Alabama
+45917,2020-04-10,Lauderdale,20,3,Alabama
+45918,2020-04-10,Lawrence,8,0,Alabama
+45919,2020-04-10,Lee,215,6,Alabama
+45920,2020-04-10,Limestone,36,0,Alabama
+45921,2020-04-10,Lowndes,12,0,Alabama
+45922,2020-04-10,Macon,9,1,Alabama
+45923,2020-04-10,Madison,177,3,Alabama
+45924,2020-04-10,Marengo,15,1,Alabama
+45925,2020-04-10,Marion,39,3,Alabama
+45926,2020-04-10,Marshall,72,2,Alabama
+45927,2020-04-10,Mobile,382,11,Alabama
+45928,2020-04-10,Monroe,6,1,Alabama
+45929,2020-04-10,Montgomery,92,4,Alabama
+45930,2020-04-10,Morgan,36,0,Alabama
+45931,2020-04-10,Perry,3,0,Alabama
+45932,2020-04-10,Pickens,19,0,Alabama
+45933,2020-04-10,Pike,18,0,Alabama
+45934,2020-04-10,Randolph,22,3,Alabama
+45935,2020-04-10,Russell,20,0,Alabama
+45936,2020-04-10,Shelby,185,5,Alabama
+45937,2020-04-10,St. Clair,37,0,Alabama
+45938,2020-04-10,Sumter,18,0,Alabama
+45939,2020-04-10,Talladega,32,0,Alabama
+45940,2020-04-10,Tallapoosa,53,2,Alabama
+45941,2020-04-10,Tuscaloosa,91,0,Alabama
+45942,2020-04-10,Walker,72,0,Alabama
+45943,2020-04-10,Washington,11,1,Alabama
+45944,2020-04-10,Wilcox,18,0,Alabama
+45945,2020-04-10,Winston,4,0,Alabama
+45946,2020-04-10,Anchorage,112,4,Alaska
+45947,2020-04-10,Bethel Census Area,1,0,Alaska
+45948,2020-04-10,Fairbanks North Star Borough,76,1,Alaska
+45949,2020-04-10,Juneau City and Borough,15,0,Alaska
+45950,2020-04-10,Kenai Peninsula Borough,14,0,Alaska
+45951,2020-04-10,Ketchikan Gateway Borough,14,0,Alaska
+45952,2020-04-10,Matanuska-Susitna Borough,9,0,Alaska
+45953,2020-04-10,Petersburg Borough,1,0,Alaska
+45954,2020-04-10,Southeast Fairbanks Census Area,1,0,Alaska
+45955,2020-04-10,Yukon-Koyukuk Census Area,1,0,Alaska
+45956,2020-04-10,Apache,55,3,Arizona
+45957,2020-04-10,Cochise,11,0,Arizona
+45958,2020-04-10,Coconino,214,15,Arizona
+45959,2020-04-10,Gila,3,0,Arizona
+45960,2020-04-10,Graham,2,0,Arizona
+45961,2020-04-10,Greenlee,1,0,Arizona
+45962,2020-04-10,La Paz,4,0,Arizona
+45963,2020-04-10,Maricopa,1741,41,Arizona
+45964,2020-04-10,Mohave,28,2,Arizona
+45965,2020-04-10,Navajo,287,7,Arizona
+45966,2020-04-10,Pima,543,20,Arizona
+45967,2020-04-10,Pinal,138,3,Arizona
+45968,2020-04-10,Santa Cruz,7,0,Arizona
+45969,2020-04-10,Unknown,0,5,Arizona
+45970,2020-04-10,Yavapai,62,1,Arizona
+45971,2020-04-10,Yuma,16,0,Arizona
+45972,2020-04-10,Arkansas,2,0,Arkansas
+45973,2020-04-10,Ashley,9,0,Arkansas
+45974,2020-04-10,Baxter,4,0,Arkansas
+45975,2020-04-10,Benton,47,0,Arkansas
+45976,2020-04-10,Boone,3,0,Arkansas
+45977,2020-04-10,Bradley,6,0,Arkansas
+45978,2020-04-10,Carroll,2,0,Arkansas
+45979,2020-04-10,Chicot,5,0,Arkansas
+45980,2020-04-10,Clark,27,0,Arkansas
+45981,2020-04-10,Clay,1,0,Arkansas
+45982,2020-04-10,Cleburne,69,4,Arkansas
+45983,2020-04-10,Cleveland,8,0,Arkansas
+45984,2020-04-10,Columbia,3,0,Arkansas
+45985,2020-04-10,Conway,4,1,Arkansas
+45986,2020-04-10,Craighead,31,0,Arkansas
+45987,2020-04-10,Crawford,3,0,Arkansas
+45988,2020-04-10,Crittenden,89,2,Arkansas
+45989,2020-04-10,Cross,6,0,Arkansas
+45990,2020-04-10,Dallas,1,0,Arkansas
+45991,2020-04-10,Desha,6,0,Arkansas
+45992,2020-04-10,Drew,6,1,Arkansas
+45993,2020-04-10,Faulkner,57,1,Arkansas
+45994,2020-04-10,Franklin,1,0,Arkansas
+45995,2020-04-10,Garland,69,0,Arkansas
+45996,2020-04-10,Grant,9,0,Arkansas
+45997,2020-04-10,Greene,6,0,Arkansas
+45998,2020-04-10,Hempstead,3,1,Arkansas
+45999,2020-04-10,Hot Spring,8,0,Arkansas
+46000,2020-04-10,Howard,6,0,Arkansas
+46001,2020-04-10,Independence,5,0,Arkansas
+46002,2020-04-10,Izard,1,0,Arkansas
+46003,2020-04-10,Jefferson,90,2,Arkansas
+46004,2020-04-10,Johnson,13,0,Arkansas
+46005,2020-04-10,Lafayette,2,0,Arkansas
+46006,2020-04-10,Lawrence,10,1,Arkansas
+46007,2020-04-10,Lee,2,0,Arkansas
+46008,2020-04-10,Lincoln,10,0,Arkansas
+46009,2020-04-10,Logan,2,0,Arkansas
+46010,2020-04-10,Lonoke,27,0,Arkansas
+46011,2020-04-10,Madison,1,0,Arkansas
+46012,2020-04-10,Marion,1,0,Arkansas
+46013,2020-04-10,Miller,20,0,Arkansas
+46014,2020-04-10,Mississippi,7,0,Arkansas
+46015,2020-04-10,Monroe,1,0,Arkansas
+46016,2020-04-10,Nevada,1,0,Arkansas
+46017,2020-04-10,Newton,1,0,Arkansas
+46018,2020-04-10,Ouachita,5,0,Arkansas
+46019,2020-04-10,Perry,2,0,Arkansas
+46020,2020-04-10,Phillips,3,0,Arkansas
+46021,2020-04-10,Pike,2,0,Arkansas
+46022,2020-04-10,Poinsett,7,0,Arkansas
+46023,2020-04-10,Polk,6,0,Arkansas
+46024,2020-04-10,Pope,26,0,Arkansas
+46025,2020-04-10,Prairie,2,0,Arkansas
+46026,2020-04-10,Pulaski,236,8,Arkansas
+46027,2020-04-10,Randolph,8,0,Arkansas
+46028,2020-04-10,Saline,32,1,Arkansas
+46029,2020-04-10,Scott,1,0,Arkansas
+46030,2020-04-10,Searcy,6,0,Arkansas
+46031,2020-04-10,Sebastian,9,0,Arkansas
+46032,2020-04-10,Sevier,6,0,Arkansas
+46033,2020-04-10,Sharp,2,0,Arkansas
+46034,2020-04-10,St. Francis,31,0,Arkansas
+46035,2020-04-10,Stone,7,0,Arkansas
+46036,2020-04-10,Union,17,0,Arkansas
+46037,2020-04-10,Unknown,16,0,Arkansas
+46038,2020-04-10,Van Buren,26,2,Arkansas
+46039,2020-04-10,Washington,37,0,Arkansas
+46040,2020-04-10,White,28,0,Arkansas
+46041,2020-04-10,Woodruff,1,0,Arkansas
+46042,2020-04-10,Yell,1,0,Arkansas
+46043,2020-04-10,Alameda,766,20,California
+46044,2020-04-10,Alpine,2,0,California
+46045,2020-04-10,Amador,6,0,California
+46046,2020-04-10,Butte,14,0,California
+46047,2020-04-10,Calaveras,8,0,California
+46048,2020-04-10,Colusa,3,0,California
+46049,2020-04-10,Contra Costa,511,9,California
+46050,2020-04-10,Del Norte,2,0,California
+46051,2020-04-10,El Dorado,32,0,California
+46052,2020-04-10,Fresno,191,5,California
+46053,2020-04-10,Glenn,3,0,California
+46054,2020-04-10,Humboldt,50,0,California
+46055,2020-04-10,Imperial,79,32,California
+46056,2020-04-10,Inyo,12,0,California
+46057,2020-04-10,Kern,363,3,California
+46058,2020-04-10,Kings,9,0,California
+46059,2020-04-10,Lake,4,0,California
+46060,2020-04-10,Los Angeles,8430,241,California
+46061,2020-04-10,Madera,32,2,California
+46062,2020-04-10,Marin,154,10,California
+46063,2020-04-10,Mendocino,4,0,California
+46064,2020-04-10,Merced,59,3,California
+46065,2020-04-10,Mono,21,1,California
+46066,2020-04-10,Monterey,79,3,California
+46067,2020-04-10,Napa,33,2,California
+46068,2020-04-10,Nevada,34,1,California
+46069,2020-04-10,Orange,1138,17,California
+46070,2020-04-10,Placer,123,4,California
+46071,2020-04-10,Plumas,4,0,California
+46072,2020-04-10,Riverside,1350,39,California
+46073,2020-04-10,Sacramento,652,24,California
+46074,2020-04-10,San Benito,35,2,California
+46075,2020-04-10,San Bernardino,810,25,California
+46076,2020-04-10,San Diego,1696,44,California
+46077,2020-04-10,San Francisco,800,13,California
+46078,2020-04-10,San Joaquin,257,14,California
+46079,2020-04-10,San Luis Obispo,107,1,California
+46080,2020-04-10,San Mateo,638,21,California
+46081,2020-04-10,Santa Barbara,260,2,California
+46082,2020-04-10,Santa Clara,1484,50,California
+46083,2020-04-10,Santa Cruz,80,1,California
+46084,2020-04-10,Shasta,24,3,California
+46085,2020-04-10,Siskiyou,5,0,California
+46086,2020-04-10,Solano,126,2,California
+46087,2020-04-10,Sonoma,145,2,California
+46088,2020-04-10,Stanislaus,116,1,California
+46089,2020-04-10,Sutter,22,2,California
+46090,2020-04-10,Tehama,1,0,California
+46091,2020-04-10,Tulare,203,11,California
+46092,2020-04-10,Tuolumne,1,0,California
+46093,2020-04-10,Ventura,298,10,California
+46094,2020-04-10,Yolo,75,3,California
+46095,2020-04-10,Yuba,15,1,California
+46096,2020-04-10,Adams,543,23,Colorado
+46097,2020-04-10,Alamosa,7,2,Colorado
+46098,2020-04-10,Arapahoe,931,30,Colorado
+46099,2020-04-10,Archuleta,6,0,Colorado
+46100,2020-04-10,Baca,9,0,Colorado
+46101,2020-04-10,Boulder,234,7,Colorado
+46102,2020-04-10,Broomfield,68,2,Colorado
+46103,2020-04-10,Chaffee,27,3,Colorado
+46104,2020-04-10,Clear Creek,11,0,Colorado
+46105,2020-04-10,Costilla,3,0,Colorado
+46106,2020-04-10,Crowley,1,1,Colorado
+46107,2020-04-10,Custer,2,0,Colorado
+46108,2020-04-10,Delta,6,1,Colorado
+46109,2020-04-10,Denver,1113,42,Colorado
+46110,2020-04-10,Douglas,282,10,Colorado
+46111,2020-04-10,Eagle,426,5,Colorado
+46112,2020-04-10,El Paso,550,33,Colorado
+46113,2020-04-10,Elbert,13,1,Colorado
+46114,2020-04-10,Fremont,5,0,Colorado
+46115,2020-04-10,Garfield,52,2,Colorado
+46116,2020-04-10,Gilpin,1,0,Colorado
+46117,2020-04-10,Grand,4,0,Colorado
+46118,2020-04-10,Gunnison,101,2,Colorado
+46119,2020-04-10,Hinsdale,1,0,Colorado
+46120,2020-04-10,Huerfano,1,0,Colorado
+46121,2020-04-10,Jefferson,683,25,Colorado
+46122,2020-04-10,Kit Carson,6,0,Colorado
+46123,2020-04-10,La Plata,44,0,Colorado
+46124,2020-04-10,Lake,4,0,Colorado
+46125,2020-04-10,Larimer,177,9,Colorado
+46126,2020-04-10,Las Animas,2,0,Colorado
+46127,2020-04-10,Lincoln,1,0,Colorado
+46128,2020-04-10,Logan,13,0,Colorado
+46129,2020-04-10,Mesa,34,0,Colorado
+46130,2020-04-10,Mineral,2,0,Colorado
+46131,2020-04-10,Moffat,3,0,Colorado
+46132,2020-04-10,Montezuma,12,2,Colorado
+46133,2020-04-10,Montrose,38,3,Colorado
+46134,2020-04-10,Morgan,51,0,Colorado
+46135,2020-04-10,Otero,5,0,Colorado
+46136,2020-04-10,Ouray,4,1,Colorado
+46137,2020-04-10,Park,6,0,Colorado
+46138,2020-04-10,Phillips,4,0,Colorado
+46139,2020-04-10,Pitkin,47,2,Colorado
+46140,2020-04-10,Prowers,1,0,Colorado
+46141,2020-04-10,Pueblo,50,3,Colorado
+46142,2020-04-10,Rio Blanco,1,0,Colorado
+46143,2020-04-10,Rio Grande,5,0,Colorado
+46144,2020-04-10,Routt,35,1,Colorado
+46145,2020-04-10,Saguache,3,0,Colorado
+46146,2020-04-10,San Miguel,11,0,Colorado
+46147,2020-04-10,Summit,61,0,Colorado
+46148,2020-04-10,Teller,12,2,Colorado
+46149,2020-04-10,Unknown,145,1,Colorado
+46150,2020-04-10,Washington,2,0,Colorado
+46151,2020-04-10,Weld,649,40,Colorado
+46152,2020-04-10,Yuma,2,0,Colorado
+46153,2020-04-10,Fairfield,5180,203,Connecticut
+46154,2020-04-10,Hartford,1615,88,Connecticut
+46155,2020-04-10,Litchfield,346,16,Connecticut
+46156,2020-04-10,Middlesex,240,17,Connecticut
+46157,2020-04-10,New Haven,2383,98,Connecticut
+46158,2020-04-10,New London,156,7,Connecticut
+46159,2020-04-10,Tolland,152,14,Connecticut
+46160,2020-04-10,Unknown,407,4,Connecticut
+46161,2020-04-10,Windham,59,1,Connecticut
+46162,2020-04-10,Kent,230,3,Delaware
+46163,2020-04-10,New Castle,751,19,Delaware
+46164,2020-04-10,Sussex,336,10,Delaware
+46165,2020-04-10,Unknown,9,0,Delaware
+46166,2020-04-10,District of Columbia,1660,38,District of Columbia
+46167,2020-04-10,Alachua,167,0,Florida
+46168,2020-04-10,Baker,16,2,Florida
+46169,2020-04-10,Bay,36,1,Florida
+46170,2020-04-10,Bradford,22,0,Florida
+46171,2020-04-10,Brevard,121,2,Florida
+46172,2020-04-10,Broward,2679,72,Florida
+46173,2020-04-10,Calhoun,5,0,Florida
+46174,2020-04-10,Charlotte,104,5,Florida
+46175,2020-04-10,Citrus,64,6,Florida
+46176,2020-04-10,Clay,144,8,Florida
+46177,2020-04-10,Collier,327,3,Florida
+46178,2020-04-10,Columbia,23,0,Florida
+46179,2020-04-10,DeSoto,20,3,Florida
+46180,2020-04-10,Dixie,1,0,Florida
+46181,2020-04-10,Duval,618,11,Florida
+46182,2020-04-10,Escambia,204,3,Florida
+46183,2020-04-10,Flagler,44,1,Florida
+46184,2020-04-10,Franklin,2,0,Florida
+46185,2020-04-10,Gadsden,13,0,Florida
+46186,2020-04-10,Gilchrist,4,0,Florida
+46187,2020-04-10,Glades,4,1,Florida
+46188,2020-04-10,Gulf,1,0,Florida
+46189,2020-04-10,Hamilton,2,0,Florida
+46190,2020-04-10,Hardee,3,0,Florida
+46191,2020-04-10,Hendry,15,0,Florida
+46192,2020-04-10,Hernando,64,2,Florida
+46193,2020-04-10,Highlands,47,4,Florida
+46194,2020-04-10,Hillsborough,676,12,Florida
+46195,2020-04-10,Holmes,2,0,Florida
+46196,2020-04-10,Indian River,70,1,Florida
+46197,2020-04-10,Jackson,5,0,Florida
+46198,2020-04-10,Jefferson,9,0,Florida
+46199,2020-04-10,Lafayette,1,0,Florida
+46200,2020-04-10,Lake,149,3,Florida
+46201,2020-04-10,Lee,571,16,Florida
+46202,2020-04-10,Leon,90,0,Florida
+46203,2020-04-10,Levy,6,0,Florida
+46204,2020-04-10,Liberty,1,0,Florida
+46205,2020-04-10,Madison,14,0,Florida
+46206,2020-04-10,Manatee,200,13,Florida
+46207,2020-04-10,Marion,83,2,Florida
+46208,2020-04-10,Martin,115,3,Florida
+46209,2020-04-10,Miami-Dade,6299,84,Florida
+46210,2020-04-10,Monroe,55,3,Florida
+46211,2020-04-10,Nassau,33,0,Florida
+46212,2020-04-10,Okaloosa,84,1,Florida
+46213,2020-04-10,Okeechobee,5,0,Florida
+46214,2020-04-10,Orange,901,11,Florida
+46215,2020-04-10,Osceola,305,5,Florida
+46216,2020-04-10,Palm Beach,1429,79,Florida
+46217,2020-04-10,Pasco,143,2,Florida
+46218,2020-04-10,Pinellas,431,12,Florida
+46219,2020-04-10,Polk,241,8,Florida
+46220,2020-04-10,Putnam,29,1,Florida
+46221,2020-04-10,Santa Rosa,105,3,Florida
+46222,2020-04-10,Sarasota,211,10,Florida
+46223,2020-04-10,Seminole,238,2,Florida
+46224,2020-04-10,St. Johns,165,2,Florida
+46225,2020-04-10,St. Lucie,146,6,Florida
+46226,2020-04-10,Sumter,107,9,Florida
+46227,2020-04-10,Suwannee,59,0,Florida
+46228,2020-04-10,Taylor,1,0,Florida
+46229,2020-04-10,Union,2,0,Florida
+46230,2020-04-10,Unknown,2,0,Florida
+46231,2020-04-10,Volusia,190,6,Florida
+46232,2020-04-10,Wakulla,7,0,Florida
+46233,2020-04-10,Walton,27,0,Florida
+46234,2020-04-10,Washington,3,0,Florida
+46235,2020-04-10,Appling,9,0,Georgia
+46236,2020-04-10,Atkinson,2,0,Georgia
+46237,2020-04-10,Bacon,14,0,Georgia
+46238,2020-04-10,Baker,11,2,Georgia
+46239,2020-04-10,Baldwin,35,1,Georgia
+46240,2020-04-10,Banks,7,0,Georgia
+46241,2020-04-10,Barrow,51,3,Georgia
+46242,2020-04-10,Bartow,208,15,Georgia
+46243,2020-04-10,Ben Hill,8,0,Georgia
+46244,2020-04-10,Berrien,6,0,Georgia
+46245,2020-04-10,Bibb,58,1,Georgia
+46246,2020-04-10,Bleckley,1,0,Georgia
+46247,2020-04-10,Brantley,7,1,Georgia
+46248,2020-04-10,Brooks,17,1,Georgia
+46249,2020-04-10,Bryan,29,2,Georgia
+46250,2020-04-10,Bulloch,15,0,Georgia
+46251,2020-04-10,Burke,24,0,Georgia
+46252,2020-04-10,Butts,27,0,Georgia
+46253,2020-04-10,Calhoun,39,2,Georgia
+46254,2020-04-10,Camden,19,0,Georgia
+46255,2020-04-10,Candler,4,0,Georgia
+46256,2020-04-10,Carroll,200,5,Georgia
+46257,2020-04-10,Catoosa,12,0,Georgia
+46258,2020-04-10,Charlton,2,0,Georgia
+46259,2020-04-10,Chatham,140,5,Georgia
+46260,2020-04-10,Chattahoochee,3,0,Georgia
+46261,2020-04-10,Chattooga,4,1,Georgia
+46262,2020-04-10,Cherokee,177,7,Georgia
+46263,2020-04-10,Clarke,81,10,Georgia
+46264,2020-04-10,Clay,15,1,Georgia
+46265,2020-04-10,Clayton,328,11,Georgia
+46266,2020-04-10,Clinch,3,0,Georgia
+46267,2020-04-10,Cobb,681,33,Georgia
+46268,2020-04-10,Coffee,53,2,Georgia
+46269,2020-04-10,Colquitt,80,5,Georgia
+46270,2020-04-10,Columbia,65,0,Georgia
+46271,2020-04-10,Cook,6,0,Georgia
+46272,2020-04-10,Coweta,100,2,Georgia
+46273,2020-04-10,Crawford,3,0,Georgia
+46274,2020-04-10,Crisp,63,0,Georgia
+46275,2020-04-10,Dade,2,1,Georgia
+46276,2020-04-10,Dawson,25,2,Georgia
+46277,2020-04-10,DeKalb,826,13,Georgia
+46278,2020-04-10,Decatur,27,0,Georgia
+46279,2020-04-10,Dodge,9,0,Georgia
+46280,2020-04-10,Dooly,37,1,Georgia
+46281,2020-04-10,Dougherty,1072,68,Georgia
+46282,2020-04-10,Douglas,148,5,Georgia
+46283,2020-04-10,Early,107,6,Georgia
+46284,2020-04-10,Echols,2,0,Georgia
+46285,2020-04-10,Effingham,20,1,Georgia
+46286,2020-04-10,Elbert,3,0,Georgia
+46287,2020-04-10,Emanuel,7,0,Georgia
+46288,2020-04-10,Fannin,9,0,Georgia
+46289,2020-04-10,Fayette,93,4,Georgia
+46290,2020-04-10,Floyd,104,5,Georgia
+46291,2020-04-10,Forsyth,119,4,Georgia
+46292,2020-04-10,Franklin,4,0,Georgia
+46293,2020-04-10,Fulton,1417,50,Georgia
+46294,2020-04-10,Gilmer,6,0,Georgia
+46295,2020-04-10,Glynn,34,0,Georgia
+46296,2020-04-10,Gordon,29,3,Georgia
+46297,2020-04-10,Grady,15,0,Georgia
+46298,2020-04-10,Greene,25,1,Georgia
+46299,2020-04-10,Gwinnett,669,17,Georgia
+46300,2020-04-10,Habersham,14,1,Georgia
+46301,2020-04-10,Hall,273,0,Georgia
+46302,2020-04-10,Hancock,1,0,Georgia
+46303,2020-04-10,Haralson,15,0,Georgia
+46304,2020-04-10,Harris,19,1,Georgia
+46305,2020-04-10,Hart,3,0,Georgia
+46306,2020-04-10,Heard,3,1,Georgia
+46307,2020-04-10,Henry,249,3,Georgia
+46308,2020-04-10,Houston,112,7,Georgia
+46309,2020-04-10,Irwin,11,0,Georgia
+46310,2020-04-10,Jackson,26,1,Georgia
+46311,2020-04-10,Jasper,6,0,Georgia
+46312,2020-04-10,Jeff Davis,1,0,Georgia
+46313,2020-04-10,Jefferson,6,1,Georgia
+46314,2020-04-10,Jenkins,9,1,Georgia
+46315,2020-04-10,Johnson,15,1,Georgia
+46316,2020-04-10,Jones,10,0,Georgia
+46317,2020-04-10,Lamar,15,0,Georgia
+46318,2020-04-10,Lanier,5,0,Georgia
+46319,2020-04-10,Laurens,29,1,Georgia
+46320,2020-04-10,Lee,230,15,Georgia
+46321,2020-04-10,Liberty,16,0,Georgia
+46322,2020-04-10,Lincoln,7,0,Georgia
+46323,2020-04-10,Long,1,0,Georgia
+46324,2020-04-10,Lowndes,59,2,Georgia
+46325,2020-04-10,Lumpkin,9,0,Georgia
+46326,2020-04-10,Macon,18,0,Georgia
+46327,2020-04-10,Madison,10,1,Georgia
+46328,2020-04-10,Marion,10,0,Georgia
+46329,2020-04-10,McDuffie,19,2,Georgia
+46330,2020-04-10,McIntosh,3,0,Georgia
+46331,2020-04-10,Meriwether,19,0,Georgia
+46332,2020-04-10,Miller,10,0,Georgia
+46333,2020-04-10,Mitchell,135,13,Georgia
+46334,2020-04-10,Monroe,12,1,Georgia
+46335,2020-04-10,Morgan,14,0,Georgia
+46336,2020-04-10,Murray,12,0,Georgia
+46337,2020-04-10,Muscogee,142,3,Georgia
+46338,2020-04-10,Newton,77,3,Georgia
+46339,2020-04-10,Oconee,37,1,Georgia
+46340,2020-04-10,Oglethorpe,12,1,Georgia
+46341,2020-04-10,Paulding,74,2,Georgia
+46342,2020-04-10,Peach,21,2,Georgia
+46343,2020-04-10,Pickens,10,2,Georgia
+46344,2020-04-10,Pierce,43,2,Georgia
+46345,2020-04-10,Pike,15,0,Georgia
+46346,2020-04-10,Polk,21,0,Georgia
+46347,2020-04-10,Pulaski,9,0,Georgia
+46348,2020-04-10,Putnam,5,0,Georgia
+46349,2020-04-10,Quitman,3,0,Georgia
+46350,2020-04-10,Rabun,6,0,Georgia
+46351,2020-04-10,Randolph,102,5,Georgia
+46352,2020-04-10,Richmond,134,4,Georgia
+46353,2020-04-10,Rockdale,89,2,Georgia
+46354,2020-04-10,Schley,12,1,Georgia
+46355,2020-04-10,Screven,5,0,Georgia
+46356,2020-04-10,Seminole,14,0,Georgia
+46357,2020-04-10,Spalding,65,4,Georgia
+46358,2020-04-10,Stephens,16,0,Georgia
+46359,2020-04-10,Stewart,6,0,Georgia
+46360,2020-04-10,Sumter,216,9,Georgia
+46361,2020-04-10,Talbot,9,1,Georgia
+46362,2020-04-10,Tattnall,3,0,Georgia
+46363,2020-04-10,Taylor,7,2,Georgia
+46364,2020-04-10,Telfair,9,0,Georgia
+46365,2020-04-10,Terrell,103,10,Georgia
+46366,2020-04-10,Thomas,74,3,Georgia
+46367,2020-04-10,Tift,56,1,Georgia
+46368,2020-04-10,Toombs,11,1,Georgia
+46369,2020-04-10,Towns,3,0,Georgia
+46370,2020-04-10,Treutlen,1,0,Georgia
+46371,2020-04-10,Troup,56,3,Georgia
+46372,2020-04-10,Turner,28,0,Georgia
+46373,2020-04-10,Twiggs,2,0,Georgia
+46374,2020-04-10,Union,6,1,Georgia
+46375,2020-04-10,Unknown,1226,5,Georgia
+46376,2020-04-10,Upson,50,0,Georgia
+46377,2020-04-10,Walker,6,0,Georgia
+46378,2020-04-10,Walton,34,2,Georgia
+46379,2020-04-10,Ware,50,4,Georgia
+46380,2020-04-10,Warren,6,0,Georgia
+46381,2020-04-10,Washington,21,0,Georgia
+46382,2020-04-10,Wayne,4,0,Georgia
+46383,2020-04-10,Webster,3,0,Georgia
+46384,2020-04-10,Wheeler,2,0,Georgia
+46385,2020-04-10,White,11,0,Georgia
+46386,2020-04-10,Whitfield,24,3,Georgia
+46387,2020-04-10,Wilcox,5,0,Georgia
+46388,2020-04-10,Wilkes,6,0,Georgia
+46389,2020-04-10,Wilkinson,9,1,Georgia
+46390,2020-04-10,Worth,78,4,Georgia
+46391,2020-04-10,Unknown,577,4,Guam
+46392,2020-04-10,Hawaii,31,0,Hawaii
+46393,2020-04-10,Honolulu,343,5,Hawaii
+46394,2020-04-10,Kauai,19,0,Hawaii
+46395,2020-04-10,Maui,66,3,Hawaii
+46396,2020-04-10,Unknown,4,0,Hawaii
+46397,2020-04-10,Ada,513,6,Idaho
+46398,2020-04-10,Adams,1,0,Idaho
+46399,2020-04-10,Bannock,5,0,Idaho
+46400,2020-04-10,Bingham,2,0,Idaho
+46401,2020-04-10,Blaine,452,5,Idaho
+46402,2020-04-10,Bonner,4,0,Idaho
+46403,2020-04-10,Bonneville,11,0,Idaho
+46404,2020-04-10,Camas,1,0,Idaho
+46405,2020-04-10,Canyon,145,5,Idaho
+46406,2020-04-10,Caribou,1,0,Idaho
+46407,2020-04-10,Cassia,7,1,Idaho
+46408,2020-04-10,Custer,2,0,Idaho
+46409,2020-04-10,Elmore,16,0,Idaho
+46410,2020-04-10,Fremont,2,0,Idaho
+46411,2020-04-10,Gem,9,0,Idaho
+46412,2020-04-10,Gooding,5,0,Idaho
+46413,2020-04-10,Idaho,3,0,Idaho
+46414,2020-04-10,Jefferson,4,0,Idaho
+46415,2020-04-10,Jerome,28,2,Idaho
+46416,2020-04-10,Kootenai,44,0,Idaho
+46417,2020-04-10,Latah,3,0,Idaho
+46418,2020-04-10,Lincoln,14,0,Idaho
+46419,2020-04-10,Madison,6,0,Idaho
+46420,2020-04-10,Minidoka,4,0,Idaho
+46421,2020-04-10,Nez Perce,19,5,Idaho
+46422,2020-04-10,Owyhee,4,0,Idaho
+46423,2020-04-10,Payette,8,0,Idaho
+46424,2020-04-10,Power,2,0,Idaho
+46425,2020-04-10,Teton,6,0,Idaho
+46426,2020-04-10,Twin Falls,73,1,Idaho
+46427,2020-04-10,Unknown,3,0,Idaho
+46428,2020-04-10,Valley,2,0,Idaho
+46429,2020-04-10,Washington,1,0,Idaho
+46430,2020-04-10,Adams,24,0,Illinois
+46431,2020-04-10,Bond,4,0,Illinois
+46432,2020-04-10,Boone,7,1,Illinois
+46433,2020-04-10,Bureau,4,0,Illinois
+46434,2020-04-10,Calhoun,1,0,Illinois
+46435,2020-04-10,Carroll,5,1,Illinois
+46436,2020-04-10,Champaign,79,1,Illinois
+46437,2020-04-10,Christian,24,4,Illinois
+46438,2020-04-10,Clark,4,0,Illinois
+46439,2020-04-10,Clinton,32,0,Illinois
+46440,2020-04-10,Coles,2,0,Illinois
+46441,2020-04-10,Cook,12472,398,Illinois
+46442,2020-04-10,Crawford,4,0,Illinois
+46443,2020-04-10,Cumberland,2,0,Illinois
+46444,2020-04-10,De Witt,2,0,Illinois
+46445,2020-04-10,DeKalb,32,1,Illinois
+46446,2020-04-10,Douglas,11,0,Illinois
+46447,2020-04-10,DuPage,1008,42,Illinois
+46448,2020-04-10,Effingham,3,1,Illinois
+46449,2020-04-10,Fayette,7,0,Illinois
+46450,2020-04-10,Ford,5,1,Illinois
+46451,2020-04-10,Franklin,3,0,Illinois
+46452,2020-04-10,Fulton,2,0,Illinois
+46453,2020-04-10,Gallatin,1,0,Illinois
+46454,2020-04-10,Greene,2,0,Illinois
+46455,2020-04-10,Grundy,15,0,Illinois
+46456,2020-04-10,Hancock,1,0,Illinois
+46457,2020-04-10,Henry,21,0,Illinois
+46458,2020-04-10,Iroquois,7,0,Illinois
+46459,2020-04-10,Jackson,27,2,Illinois
+46460,2020-04-10,Jasper,3,0,Illinois
+46461,2020-04-10,Jefferson,5,0,Illinois
+46462,2020-04-10,Jersey,6,0,Illinois
+46463,2020-04-10,Jo Daviess,10,0,Illinois
+46464,2020-04-10,Kane,339,22,Illinois
+46465,2020-04-10,Kankakee,167,10,Illinois
+46466,2020-04-10,Kendall,92,2,Illinois
+46467,2020-04-10,Knox,1,0,Illinois
+46468,2020-04-10,LaSalle,19,1,Illinois
+46469,2020-04-10,Lake,1230,34,Illinois
+46470,2020-04-10,Lawrence,2,0,Illinois
+46471,2020-04-10,Lee,12,0,Illinois
+46472,2020-04-10,Livingston,14,0,Illinois
+46473,2020-04-10,Logan,3,0,Illinois
+46474,2020-04-10,Macon,14,1,Illinois
+46475,2020-04-10,Macoupin,14,0,Illinois
+46476,2020-04-10,Madison,101,2,Illinois
+46477,2020-04-10,Marion,12,0,Illinois
+46478,2020-04-10,Marshall,1,0,Illinois
+46479,2020-04-10,Mason,3,0,Illinois
+46480,2020-04-10,Massac,2,0,Illinois
+46481,2020-04-10,McHenry,206,5,Illinois
+46482,2020-04-10,McLean,75,2,Illinois
+46483,2020-04-10,Menard,2,0,Illinois
+46484,2020-04-10,Mercer,2,0,Illinois
+46485,2020-04-10,Monroe,42,1,Illinois
+46486,2020-04-10,Montgomery,8,0,Illinois
+46487,2020-04-10,Morgan,10,1,Illinois
+46488,2020-04-10,Moultrie,2,0,Illinois
+46489,2020-04-10,Ogle,16,1,Illinois
+46490,2020-04-10,Peoria,20,1,Illinois
+46491,2020-04-10,Piatt,6,0,Illinois
+46492,2020-04-10,Pike,1,0,Illinois
+46493,2020-04-10,Pulaski,4,0,Illinois
+46494,2020-04-10,Randolph,35,0,Illinois
+46495,2020-04-10,Richland,1,0,Illinois
+46496,2020-04-10,Rock Island,80,3,Illinois
+46497,2020-04-10,Saline,3,0,Illinois
+46498,2020-04-10,Sangamon,42,2,Illinois
+46499,2020-04-10,Schuyler,1,0,Illinois
+46500,2020-04-10,Shelby,3,0,Illinois
+46501,2020-04-10,St. Clair,159,5,Illinois
+46502,2020-04-10,Stark,1,0,Illinois
+46503,2020-04-10,Stephenson,8,0,Illinois
+46504,2020-04-10,Tazewell,17,2,Illinois
+46505,2020-04-10,Unknown,81,1,Illinois
+46506,2020-04-10,Vermilion,7,0,Illinois
+46507,2020-04-10,Wabash,2,0,Illinois
+46508,2020-04-10,Washington,2,0,Illinois
+46509,2020-04-10,Whiteside,24,1,Illinois
+46510,2020-04-10,Will,1077,52,Illinois
+46511,2020-04-10,Williamson,10,0,Illinois
+46512,2020-04-10,Winnebago,77,7,Illinois
+46513,2020-04-10,Woodford,7,0,Illinois
+46514,2020-04-10,Adams,4,0,Indiana
+46515,2020-04-10,Allen,119,9,Indiana
+46516,2020-04-10,Bartholomew,83,4,Indiana
+46517,2020-04-10,Blackford,4,0,Indiana
+46518,2020-04-10,Boone,90,2,Indiana
+46519,2020-04-10,Brown,9,1,Indiana
+46520,2020-04-10,Carroll,4,0,Indiana
+46521,2020-04-10,Cass,18,1,Indiana
+46522,2020-04-10,Clark,104,8,Indiana
+46523,2020-04-10,Clay,11,0,Indiana
+46524,2020-04-10,Clinton,11,1,Indiana
+46525,2020-04-10,Crawford,12,0,Indiana
+46526,2020-04-10,Daviess,9,1,Indiana
+46527,2020-04-10,DeKalb,5,0,Indiana
+46528,2020-04-10,Dearborn,59,3,Indiana
+46529,2020-04-10,Decatur,118,8,Indiana
+46530,2020-04-10,Delaware,56,1,Indiana
+46531,2020-04-10,Dubois,10,0,Indiana
+46532,2020-04-10,Elkhart,61,3,Indiana
+46533,2020-04-10,Fayette,19,3,Indiana
+46534,2020-04-10,Floyd,93,3,Indiana
+46535,2020-04-10,Fountain,3,1,Indiana
+46536,2020-04-10,Franklin,66,7,Indiana
+46537,2020-04-10,Fulton,3,0,Indiana
+46538,2020-04-10,Gibson,4,0,Indiana
+46539,2020-04-10,Grant,32,2,Indiana
+46540,2020-04-10,Greene,14,1,Indiana
+46541,2020-04-10,Hamilton,431,19,Indiana
+46542,2020-04-10,Hancock,109,4,Indiana
+46543,2020-04-10,Harrison,50,1,Indiana
+46544,2020-04-10,Hendricks,287,8,Indiana
+46545,2020-04-10,Henry,20,0,Indiana
+46546,2020-04-10,Howard,46,4,Indiana
+46547,2020-04-10,Huntington,6,1,Indiana
+46548,2020-04-10,Jackson,57,0,Indiana
+46549,2020-04-10,Jasper,15,1,Indiana
+46550,2020-04-10,Jay,4,0,Indiana
+46551,2020-04-10,Jefferson,10,0,Indiana
+46552,2020-04-10,Jennings,46,0,Indiana
+46553,2020-04-10,Johnson,270,16,Indiana
+46554,2020-04-10,Knox,13,0,Indiana
+46555,2020-04-10,Kosciusko,17,1,Indiana
+46556,2020-04-10,LaGrange,9,1,Indiana
+46557,2020-04-10,LaPorte,31,3,Indiana
+46558,2020-04-10,Lake,576,23,Indiana
+46559,2020-04-10,Lawrence,59,7,Indiana
+46560,2020-04-10,Madison,204,13,Indiana
+46561,2020-04-10,Marion,2600,107,Indiana
+46562,2020-04-10,Marshall,12,0,Indiana
+46563,2020-04-10,Martin,2,0,Indiana
+46564,2020-04-10,Miami,14,0,Indiana
+46565,2020-04-10,Monroe,70,0,Indiana
+46566,2020-04-10,Montgomery,20,0,Indiana
+46567,2020-04-10,Morgan,89,3,Indiana
+46568,2020-04-10,Newton,7,1,Indiana
+46569,2020-04-10,Noble,14,1,Indiana
+46570,2020-04-10,Ohio,1,0,Indiana
+46571,2020-04-10,Orange,13,2,Indiana
+46572,2020-04-10,Owen,18,1,Indiana
+46573,2020-04-10,Parke,6,0,Indiana
+46574,2020-04-10,Perry,3,0,Indiana
+46575,2020-04-10,Porter,95,0,Indiana
+46576,2020-04-10,Posey,5,0,Indiana
+46577,2020-04-10,Pulaski,1,0,Indiana
+46578,2020-04-10,Putnam,31,3,Indiana
+46579,2020-04-10,Randolph,8,1,Indiana
+46580,2020-04-10,Ripley,79,3,Indiana
+46581,2020-04-10,Rush,12,1,Indiana
+46582,2020-04-10,Scott,12,2,Indiana
+46583,2020-04-10,Shelby,63,2,Indiana
+46584,2020-04-10,Spencer,1,0,Indiana
+46585,2020-04-10,St. Joseph,165,2,Indiana
+46586,2020-04-10,Starke,8,0,Indiana
+46587,2020-04-10,Steuben,12,1,Indiana
+46588,2020-04-10,Sullivan,4,0,Indiana
+46589,2020-04-10,Switzerland,12,0,Indiana
+46590,2020-04-10,Tippecanoe,42,1,Indiana
+46591,2020-04-10,Tipton,9,0,Indiana
+46592,2020-04-10,Union,5,0,Indiana
+46593,2020-04-10,Vanderburgh,53,1,Indiana
+46594,2020-04-10,Vermillion,3,0,Indiana
+46595,2020-04-10,Vigo,40,2,Indiana
+46596,2020-04-10,Wabash,7,0,Indiana
+46597,2020-04-10,Warren,2,1,Indiana
+46598,2020-04-10,Warrick,33,2,Indiana
+46599,2020-04-10,Washington,23,0,Indiana
+46600,2020-04-10,Wayne,16,1,Indiana
+46601,2020-04-10,Wells,3,0,Indiana
+46602,2020-04-10,White,3,0,Indiana
+46603,2020-04-10,Whitley,10,1,Indiana
+46604,2020-04-10,Adair,1,0,Iowa
+46605,2020-04-10,Allamakee,20,1,Iowa
+46606,2020-04-10,Appanoose,1,1,Iowa
+46607,2020-04-10,Audubon,1,0,Iowa
+46608,2020-04-10,Benton,15,1,Iowa
+46609,2020-04-10,Black Hawk,35,0,Iowa
+46610,2020-04-10,Boone,4,0,Iowa
+46611,2020-04-10,Bremer,2,0,Iowa
+46612,2020-04-10,Buchanan,6,0,Iowa
+46613,2020-04-10,Buena Vista,1,0,Iowa
+46614,2020-04-10,Butler,1,0,Iowa
+46615,2020-04-10,Carroll,1,0,Iowa
+46616,2020-04-10,Cedar,20,0,Iowa
+46617,2020-04-10,Cerro Gordo,13,0,Iowa
+46618,2020-04-10,Chickasaw,2,0,Iowa
+46619,2020-04-10,Clarke,2,0,Iowa
+46620,2020-04-10,Clay,2,0,Iowa
+46621,2020-04-10,Clayton,6,0,Iowa
+46622,2020-04-10,Clinton,24,0,Iowa
+46623,2020-04-10,Crawford,6,0,Iowa
+46624,2020-04-10,Dallas,36,0,Iowa
+46625,2020-04-10,Delaware,1,0,Iowa
+46626,2020-04-10,Des Moines,3,0,Iowa
+46627,2020-04-10,Dickinson,1,0,Iowa
+46628,2020-04-10,Dubuque,32,1,Iowa
+46629,2020-04-10,Fayette,4,0,Iowa
+46630,2020-04-10,Franklin,1,0,Iowa
+46631,2020-04-10,Greene,1,0,Iowa
+46632,2020-04-10,Grundy,1,0,Iowa
+46633,2020-04-10,Guthrie,1,0,Iowa
+46634,2020-04-10,Hamilton,2,0,Iowa
+46635,2020-04-10,Hancock,3,0,Iowa
+46636,2020-04-10,Hardin,1,0,Iowa
+46637,2020-04-10,Harrison,12,0,Iowa
+46638,2020-04-10,Henry,17,1,Iowa
+46639,2020-04-10,Howard,1,0,Iowa
+46640,2020-04-10,Iowa,7,0,Iowa
+46641,2020-04-10,Jackson,4,0,Iowa
+46642,2020-04-10,Jasper,10,0,Iowa
+46643,2020-04-10,Jefferson,3,0,Iowa
+46644,2020-04-10,Johnson,185,1,Iowa
+46645,2020-04-10,Jones,8,0,Iowa
+46646,2020-04-10,Keokuk,2,0,Iowa
+46647,2020-04-10,Kossuth,1,0,Iowa
+46648,2020-04-10,Lee,1,0,Iowa
+46649,2020-04-10,Linn,225,12,Iowa
+46650,2020-04-10,Louisa,56,0,Iowa
+46651,2020-04-10,Lyon,2,0,Iowa
+46652,2020-04-10,Madison,1,0,Iowa
+46653,2020-04-10,Mahaska,4,0,Iowa
+46654,2020-04-10,Marion,2,0,Iowa
+46655,2020-04-10,Marshall,20,0,Iowa
+46656,2020-04-10,Mills,1,0,Iowa
+46657,2020-04-10,Mitchell,2,0,Iowa
+46658,2020-04-10,Monona,6,0,Iowa
+46659,2020-04-10,Montgomery,1,0,Iowa
+46660,2020-04-10,Muscatine,80,1,Iowa
+46661,2020-04-10,O'Brien,3,0,Iowa
+46662,2020-04-10,Osceola,1,0,Iowa
+46663,2020-04-10,Page,3,0,Iowa
+46664,2020-04-10,Plymouth,4,0,Iowa
+46665,2020-04-10,Polk,147,5,Iowa
+46666,2020-04-10,Pottawattamie,12,0,Iowa
+46667,2020-04-10,Poweshiek,6,1,Iowa
+46668,2020-04-10,Scott,99,1,Iowa
+46669,2020-04-10,Shelby,6,0,Iowa
+46670,2020-04-10,Sioux,7,0,Iowa
+46671,2020-04-10,Story,7,0,Iowa
+46672,2020-04-10,Tama,70,2,Iowa
+46673,2020-04-10,Taylor,1,0,Iowa
+46674,2020-04-10,Union,1,0,Iowa
+46675,2020-04-10,Van Buren,6,0,Iowa
+46676,2020-04-10,Wapello,3,0,Iowa
+46677,2020-04-10,Warren,15,0,Iowa
+46678,2020-04-10,Washington,70,3,Iowa
+46679,2020-04-10,Webster,2,0,Iowa
+46680,2020-04-10,Winnebago,2,0,Iowa
+46681,2020-04-10,Winneshiek,5,0,Iowa
+46682,2020-04-10,Woodbury,15,0,Iowa
+46683,2020-04-10,Worth,1,0,Iowa
+46684,2020-04-10,Wright,1,0,Iowa
+46685,2020-04-10,Atchison,2,0,Kansas
+46686,2020-04-10,Barber,1,0,Kansas
+46687,2020-04-10,Barton,4,0,Kansas
+46688,2020-04-10,Bourbon,7,1,Kansas
+46689,2020-04-10,Butler,8,0,Kansas
+46690,2020-04-10,Chautauqua,3,0,Kansas
+46691,2020-04-10,Cherokee,5,0,Kansas
+46692,2020-04-10,Clay,1,0,Kansas
+46693,2020-04-10,Cloud,3,0,Kansas
+46694,2020-04-10,Coffey,37,1,Kansas
+46695,2020-04-10,Cowley,2,1,Kansas
+46696,2020-04-10,Crawford,6,1,Kansas
+46697,2020-04-10,Doniphan,1,0,Kansas
+46698,2020-04-10,Douglas,39,0,Kansas
+46699,2020-04-10,Finney,12,0,Kansas
+46700,2020-04-10,Ford,3,0,Kansas
+46701,2020-04-10,Franklin,10,0,Kansas
+46702,2020-04-10,Geary,6,0,Kansas
+46703,2020-04-10,Gove,1,0,Kansas
+46704,2020-04-10,Greenwood,1,0,Kansas
+46705,2020-04-10,Harvey,4,0,Kansas
+46706,2020-04-10,Jackson,1,0,Kansas
+46707,2020-04-10,Jefferson,5,0,Kansas
+46708,2020-04-10,Jewell,2,0,Kansas
+46709,2020-04-10,Johnson,263,12,Kansas
+46710,2020-04-10,Labette,15,0,Kansas
+46711,2020-04-10,Leavenworth,66,1,Kansas
+46712,2020-04-10,Linn,6,0,Kansas
+46713,2020-04-10,Lyon,26,0,Kansas
+46714,2020-04-10,Marion,3,0,Kansas
+46715,2020-04-10,McPherson,13,0,Kansas
+46716,2020-04-10,Miami,3,0,Kansas
+46717,2020-04-10,Mitchell,2,0,Kansas
+46718,2020-04-10,Montgomery,12,2,Kansas
+46719,2020-04-10,Morris,2,0,Kansas
+46720,2020-04-10,Morton,1,0,Kansas
+46721,2020-04-10,Neosho,1,0,Kansas
+46722,2020-04-10,Osage,3,0,Kansas
+46723,2020-04-10,Osborne,2,0,Kansas
+46724,2020-04-10,Ottawa,3,0,Kansas
+46725,2020-04-10,Pottawatomie,5,0,Kansas
+46726,2020-04-10,Pratt,1,0,Kansas
+46727,2020-04-10,Reno,11,0,Kansas
+46728,2020-04-10,Republic,4,0,Kansas
+46729,2020-04-10,Riley,20,0,Kansas
+46730,2020-04-10,Rooks,2,0,Kansas
+46731,2020-04-10,Saline,8,1,Kansas
+46732,2020-04-10,Scott,2,0,Kansas
+46733,2020-04-10,Sedgwick,172,2,Kansas
+46734,2020-04-10,Seward,3,0,Kansas
+46735,2020-04-10,Shawnee,59,3,Kansas
+46736,2020-04-10,Stafford,1,0,Kansas
+46737,2020-04-10,Stevens,1,0,Kansas
+46738,2020-04-10,Sumner,2,1,Kansas
+46739,2020-04-10,Unknown,0,4,Kansas
+46740,2020-04-10,Wabaunsee,1,0,Kansas
+46741,2020-04-10,Woodson,3,0,Kansas
+46742,2020-04-10,Wyandotte,300,20,Kansas
+46743,2020-04-10,Adair,10,1,Kentucky
+46744,2020-04-10,Allen,4,0,Kentucky
+46745,2020-04-10,Anderson,3,1,Kentucky
+46746,2020-04-10,Ballard,1,0,Kentucky
+46747,2020-04-10,Barren,3,0,Kentucky
+46748,2020-04-10,Bath,1,0,Kentucky
+46749,2020-04-10,Boone,48,1,Kentucky
+46750,2020-04-10,Bourbon,4,1,Kentucky
+46751,2020-04-10,Boyd,22,2,Kentucky
+46752,2020-04-10,Boyle,13,0,Kentucky
+46753,2020-04-10,Bracken,3,0,Kentucky
+46754,2020-04-10,Breathitt,2,0,Kentucky
+46755,2020-04-10,Breckinridge,3,0,Kentucky
+46756,2020-04-10,Bullitt,21,2,Kentucky
+46757,2020-04-10,Butler,8,1,Kentucky
+46758,2020-04-10,Caldwell,6,0,Kentucky
+46759,2020-04-10,Calloway,11,1,Kentucky
+46760,2020-04-10,Campbell,42,3,Kentucky
+46761,2020-04-10,Carroll,2,0,Kentucky
+46762,2020-04-10,Carter,1,0,Kentucky
+46763,2020-04-10,Christian,54,3,Kentucky
+46764,2020-04-10,Clark,14,0,Kentucky
+46765,2020-04-10,Clinton,3,0,Kentucky
+46766,2020-04-10,Crittenden,3,0,Kentucky
+46767,2020-04-10,Cumberland,3,0,Kentucky
+46768,2020-04-10,Daviess,79,2,Kentucky
+46769,2020-04-10,Edmonson,6,0,Kentucky
+46770,2020-04-10,Fayette,174,7,Kentucky
+46771,2020-04-10,Floyd,1,0,Kentucky
+46772,2020-04-10,Franklin,10,0,Kentucky
+46773,2020-04-10,Grant,11,1,Kentucky
+46774,2020-04-10,Graves,5,0,Kentucky
+46775,2020-04-10,Grayson,3,0,Kentucky
+46776,2020-04-10,Green,2,0,Kentucky
+46777,2020-04-10,Greenup,2,0,Kentucky
+46778,2020-04-10,Hancock,2,0,Kentucky
+46779,2020-04-10,Hardin,17,0,Kentucky
+46780,2020-04-10,Harrison,14,0,Kentucky
+46781,2020-04-10,Hart,1,0,Kentucky
+46782,2020-04-10,Henderson,23,0,Kentucky
+46783,2020-04-10,Henry,3,0,Kentucky
+46784,2020-04-10,Hopkins,83,7,Kentucky
+46785,2020-04-10,Jackson,3,0,Kentucky
+46786,2020-04-10,Jefferson,495,39,Kentucky
+46787,2020-04-10,Jessamine,23,0,Kentucky
+46788,2020-04-10,Johnson,1,0,Kentucky
+46789,2020-04-10,Kenton,80,8,Kentucky
+46790,2020-04-10,Knox,1,0,Kentucky
+46791,2020-04-10,Larue,3,0,Kentucky
+46792,2020-04-10,Laurel,6,0,Kentucky
+46793,2020-04-10,Lawrence,1,0,Kentucky
+46794,2020-04-10,Leslie,1,0,Kentucky
+46795,2020-04-10,Letcher,1,0,Kentucky
+46796,2020-04-10,Lewis,2,0,Kentucky
+46797,2020-04-10,Lincoln,1,0,Kentucky
+46798,2020-04-10,Logan,5,0,Kentucky
+46799,2020-04-10,Lyon,11,2,Kentucky
+46800,2020-04-10,Madison,17,1,Kentucky
+46801,2020-04-10,Marion,10,0,Kentucky
+46802,2020-04-10,Marshall,10,0,Kentucky
+46803,2020-04-10,Martin,4,0,Kentucky
+46804,2020-04-10,Mason,4,0,Kentucky
+46805,2020-04-10,McCracken,18,2,Kentucky
+46806,2020-04-10,McCreary,6,0,Kentucky
+46807,2020-04-10,McLean,5,1,Kentucky
+46808,2020-04-10,Meade,2,1,Kentucky
+46809,2020-04-10,Menifee,3,0,Kentucky
+46810,2020-04-10,Mercer,7,0,Kentucky
+46811,2020-04-10,Monroe,2,0,Kentucky
+46812,2020-04-10,Montgomery,8,0,Kentucky
+46813,2020-04-10,Muhlenberg,36,0,Kentucky
+46814,2020-04-10,Nelson,8,0,Kentucky
+46815,2020-04-10,Nicholas,1,0,Kentucky
+46816,2020-04-10,Ohio,8,0,Kentucky
+46817,2020-04-10,Oldham,13,0,Kentucky
+46818,2020-04-10,Pendleton,3,0,Kentucky
+46819,2020-04-10,Perry,3,0,Kentucky
+46820,2020-04-10,Pike,1,0,Kentucky
+46821,2020-04-10,Powell,2,0,Kentucky
+46822,2020-04-10,Pulaski,32,1,Kentucky
+46823,2020-04-10,Rockcastle,6,0,Kentucky
+46824,2020-04-10,Russell,8,0,Kentucky
+46825,2020-04-10,Scott,21,0,Kentucky
+46826,2020-04-10,Shelby,14,1,Kentucky
+46827,2020-04-10,Simpson,15,1,Kentucky
+46828,2020-04-10,Spencer,5,0,Kentucky
+46829,2020-04-10,Taylor,3,0,Kentucky
+46830,2020-04-10,Todd,5,0,Kentucky
+46831,2020-04-10,Trimble,1,0,Kentucky
+46832,2020-04-10,Union,3,0,Kentucky
+46833,2020-04-10,Warren,35,0,Kentucky
+46834,2020-04-10,Washington,3,0,Kentucky
+46835,2020-04-10,Wayne,4,0,Kentucky
+46836,2020-04-10,Webster,7,0,Kentucky
+46837,2020-04-10,Whitley,1,0,Kentucky
+46838,2020-04-10,Woodford,13,0,Kentucky
+46839,2020-04-10,Acadia,94,4,Louisiana
+46840,2020-04-10,Allen,67,5,Louisiana
+46841,2020-04-10,Ascension,397,19,Louisiana
+46842,2020-04-10,Assumption,105,1,Louisiana
+46843,2020-04-10,Avoyelles,56,1,Louisiana
+46844,2020-04-10,Beauregard,27,1,Louisiana
+46845,2020-04-10,Bienville,27,1,Louisiana
+46846,2020-04-10,Bossier,175,7,Louisiana
+46847,2020-04-10,Caddo,950,39,Louisiana
+46848,2020-04-10,Calcasieu,228,5,Louisiana
+46849,2020-04-10,Caldwell,18,0,Louisiana
+46850,2020-04-10,Cameron,1,0,Louisiana
+46851,2020-04-10,Catahoula,18,1,Louisiana
+46852,2020-04-10,Claiborne,40,2,Louisiana
+46853,2020-04-10,Concordia,16,1,Louisiana
+46854,2020-04-10,De Soto,107,7,Louisiana
+46855,2020-04-10,East Baton Rouge,1088,39,Louisiana
+46856,2020-04-10,East Carroll,1,0,Louisiana
+46857,2020-04-10,East Feliciana,65,2,Louisiana
+46858,2020-04-10,Evangeline,35,0,Louisiana
+46859,2020-04-10,Franklin,40,1,Louisiana
+46860,2020-04-10,Grant,11,0,Louisiana
+46861,2020-04-10,Iberia,121,5,Louisiana
+46862,2020-04-10,Iberville,198,10,Louisiana
+46863,2020-04-10,Jackson,8,0,Louisiana
+46864,2020-04-10,Jefferson,4678,165,Louisiana
+46865,2020-04-10,Jefferson Davis,32,2,Louisiana
+46866,2020-04-10,LaSalle,9,0,Louisiana
+46867,2020-04-10,Lafayette,330,12,Louisiana
+46868,2020-04-10,Lafourche,426,13,Louisiana
+46869,2020-04-10,Lincoln,33,0,Louisiana
+46870,2020-04-10,Livingston,107,1,Louisiana
+46871,2020-04-10,Madison,2,0,Louisiana
+46872,2020-04-10,Morehouse,27,2,Louisiana
+46873,2020-04-10,Natchitoches,33,0,Louisiana
+46874,2020-04-10,Orleans,5416,225,Louisiana
+46875,2020-04-10,Ouachita,326,5,Louisiana
+46876,2020-04-10,Plaquemines,130,8,Louisiana
+46877,2020-04-10,Pointe Coupee,38,2,Louisiana
+46878,2020-04-10,Rapides,156,4,Louisiana
+46879,2020-04-10,Red River,7,1,Louisiana
+46880,2020-04-10,Richland,18,0,Louisiana
+46881,2020-04-10,Sabine,8,0,Louisiana
+46882,2020-04-10,St. Bernard,343,10,Louisiana
+46883,2020-04-10,St. Charles,376,23,Louisiana
+46884,2020-04-10,St. Helena,11,0,Louisiana
+46885,2020-04-10,St. James,194,9,Louisiana
+46886,2020-04-10,St. John the Baptist,507,37,Louisiana
+46887,2020-04-10,St. Landry,103,6,Louisiana
+46888,2020-04-10,St. Martin,140,6,Louisiana
+46889,2020-04-10,St. Mary,100,1,Louisiana
+46890,2020-04-10,St. Tammany,825,27,Louisiana
+46891,2020-04-10,Tangipahoa,305,6,Louisiana
+46892,2020-04-10,Terrebonne,244,13,Louisiana
+46893,2020-04-10,Union,41,3,Louisiana
+46894,2020-04-10,Unknown,54,2,Louisiana
+46895,2020-04-10,Vermilion,22,1,Louisiana
+46896,2020-04-10,Vernon,13,0,Louisiana
+46897,2020-04-10,Washington,136,7,Louisiana
+46898,2020-04-10,Webster,57,2,Louisiana
+46899,2020-04-10,West Baton Rouge,61,9,Louisiana
+46900,2020-04-10,West Carroll,3,0,Louisiana
+46901,2020-04-10,West Feliciana,41,0,Louisiana
+46902,2020-04-10,Winn,8,2,Louisiana
+46903,2020-04-10,Androscoggin,24,0,Maine
+46904,2020-04-10,Aroostook,2,0,Maine
+46905,2020-04-10,Cumberland,276,11,Maine
+46906,2020-04-10,Franklin,7,0,Maine
+46907,2020-04-10,Hancock,4,0,Maine
+46908,2020-04-10,Kennebec,29,1,Maine
+46909,2020-04-10,Knox,10,0,Maine
+46910,2020-04-10,Lincoln,9,0,Maine
+46911,2020-04-10,Oxford,12,0,Maine
+46912,2020-04-10,Penobscot,33,0,Maine
+46913,2020-04-10,Sagadahoc,15,1,Maine
+46914,2020-04-10,Somerset,5,0,Maine
+46915,2020-04-10,Unknown,3,0,Maine
+46916,2020-04-10,Waldo,19,2,Maine
+46917,2020-04-10,Washington,1,0,Maine
+46918,2020-04-10,York,137,2,Maine
+46919,2020-04-10,Allegany,10,0,Maryland
+46920,2020-04-10,Anne Arundel,554,16,Maryland
+46921,2020-04-10,Baltimore,1072,21,Maryland
+46922,2020-04-10,Baltimore city,689,17,Maryland
+46923,2020-04-10,Calvert,76,2,Maryland
+46924,2020-04-10,Caroline,12,0,Maryland
+46925,2020-04-10,Carroll,214,19,Maryland
+46926,2020-04-10,Cecil,64,1,Maryland
+46927,2020-04-10,Charles,220,4,Maryland
+46928,2020-04-10,Dorchester,7,0,Maryland
+46929,2020-04-10,Frederick,289,9,Maryland
+46930,2020-04-10,Garrett,4,0,Maryland
+46931,2020-04-10,Harford,110,0,Maryland
+46932,2020-04-10,Howard,319,5,Maryland
+46933,2020-04-10,Kent,9,0,Maryland
+46934,2020-04-10,Montgomery,1388,34,Maryland
+46935,2020-04-10,Prince George's,1716,42,Maryland
+46936,2020-04-10,Queen Anne's,17,0,Maryland
+46937,2020-04-10,Somerset,4,0,Maryland
+46938,2020-04-10,St. Mary's,71,0,Maryland
+46939,2020-04-10,Talbot,13,1,Maryland
+46940,2020-04-10,Washington,66,0,Maryland
+46941,2020-04-10,Wicomico,28,1,Maryland
+46942,2020-04-10,Worcester,16,0,Maryland
+46943,2020-04-10,Barnstable,464,13,Massachusetts
+46944,2020-04-10,Berkshire,329,22,Massachusetts
+46945,2020-04-10,Bristol,1086,33,Massachusetts
+46946,2020-04-10,Dukes,12,0,Massachusetts
+46947,2020-04-10,Essex,2670,79,Massachusetts
+46948,2020-04-10,Franklin,135,22,Massachusetts
+46949,2020-04-10,Hampden,1394,89,Massachusetts
+46950,2020-04-10,Hampshire,194,3,Massachusetts
+46951,2020-04-10,Middlesex,4447,109,Massachusetts
+46952,2020-04-10,Nantucket,9,0,Massachusetts
+46953,2020-04-10,Norfolk,2216,64,Massachusetts
+46954,2020-04-10,Plymouth,1677,53,Massachusetts
+46955,2020-04-10,Suffolk,4534,66,Massachusetts
+46956,2020-04-10,Unknown,129,9,Massachusetts
+46957,2020-04-10,Worcester,1678,37,Massachusetts
+46958,2020-04-10,Allegan,19,0,Michigan
+46959,2020-04-10,Antrim,6,0,Michigan
+46960,2020-04-10,Arenac,4,0,Michigan
+46961,2020-04-10,Barry,7,0,Michigan
+46962,2020-04-10,Bay,48,0,Michigan
+46963,2020-04-10,Berrien,88,2,Michigan
+46964,2020-04-10,Branch,25,2,Michigan
+46965,2020-04-10,Calhoun,65,1,Michigan
+46966,2020-04-10,Cass,12,1,Michigan
+46967,2020-04-10,Charlevoix,10,0,Michigan
+46968,2020-04-10,Cheboygan,10,1,Michigan
+46969,2020-04-10,Chippewa,1,1,Michigan
+46970,2020-04-10,Clare,3,1,Michigan
+46971,2020-04-10,Clinton,90,3,Michigan
+46972,2020-04-10,Crawford,5,1,Michigan
+46973,2020-04-10,Delta,9,1,Michigan
+46974,2020-04-10,Dickinson,3,1,Michigan
+46975,2020-04-10,Eaton,69,4,Michigan
+46976,2020-04-10,Emmet,17,2,Michigan
+46977,2020-04-10,Genesee,828,57,Michigan
+46978,2020-04-10,Gladwin,4,0,Michigan
+46979,2020-04-10,Gogebic,4,1,Michigan
+46980,2020-04-10,Grand Traverse,16,3,Michigan
+46981,2020-04-10,Gratiot,6,0,Michigan
+46982,2020-04-10,Hillsdale,70,6,Michigan
+46983,2020-04-10,Houghton,1,0,Michigan
+46984,2020-04-10,Huron,5,0,Michigan
+46985,2020-04-10,Ingham,239,3,Michigan
+46986,2020-04-10,Ionia,14,2,Michigan
+46987,2020-04-10,Iosco,4,1,Michigan
+46988,2020-04-10,Isabella,37,2,Michigan
+46989,2020-04-10,Jackson,140,4,Michigan
+46990,2020-04-10,Kalamazoo,77,7,Michigan
+46991,2020-04-10,Kalkaska,10,2,Michigan
+46992,2020-04-10,Kent,250,13,Michigan
+46993,2020-04-10,Lapeer,87,6,Michigan
+46994,2020-04-10,Leelanau,4,0,Michigan
+46995,2020-04-10,Lenawee,39,0,Michigan
+46996,2020-04-10,Livingston,196,3,Michigan
+46997,2020-04-10,Luce,1,0,Michigan
+46998,2020-04-10,Mackinac,4,0,Michigan
+46999,2020-04-10,Macomb,2973,197,Michigan
+47000,2020-04-10,Manistee,9,0,Michigan
+47001,2020-04-10,Marquette,21,2,Michigan
+47002,2020-04-10,Mason,1,0,Michigan
+47003,2020-04-10,Mecosta,11,1,Michigan
+47004,2020-04-10,Menominee,1,0,Michigan
+47005,2020-04-10,Midland,28,1,Michigan
+47006,2020-04-10,Missaukee,1,1,Michigan
+47007,2020-04-10,Monroe,174,4,Michigan
+47008,2020-04-10,Montcalm,20,1,Michigan
+47009,2020-04-10,Muskegon,57,4,Michigan
+47010,2020-04-10,Newaygo,4,0,Michigan
+47011,2020-04-10,Oakland,4511,282,Michigan
+47012,2020-04-10,Oceana,3,1,Michigan
+47013,2020-04-10,Ogemaw,3,0,Michigan
+47014,2020-04-10,Osceola,3,0,Michigan
+47015,2020-04-10,Oscoda,3,0,Michigan
+47016,2020-04-10,Otsego,29,2,Michigan
+47017,2020-04-10,Ottawa,61,1,Michigan
+47018,2020-04-10,Presque Isle,2,0,Michigan
+47019,2020-04-10,Roscommon,8,0,Michigan
+47020,2020-04-10,Saginaw,240,9,Michigan
+47021,2020-04-10,Sanilac,23,2,Michigan
+47022,2020-04-10,Schoolcraft,1,0,Michigan
+47023,2020-04-10,Shiawassee,34,0,Michigan
+47024,2020-04-10,St. Clair,179,4,Michigan
+47025,2020-04-10,St. Joseph,20,0,Michigan
+47026,2020-04-10,Tuscola,41,5,Michigan
+47027,2020-04-10,Unknown,433,7,Michigan
+47028,2020-04-10,Van Buren,20,1,Michigan
+47029,2020-04-10,Washtenaw,659,15,Michigan
+47030,2020-04-10,Wayne,10539,609,Michigan
+47031,2020-04-10,Wexford,7,0,Michigan
+47032,2020-04-10,Anoka,55,0,Minnesota
+47033,2020-04-10,Beltrami,5,0,Minnesota
+47034,2020-04-10,Benton,1,0,Minnesota
+47035,2020-04-10,Big Stone,1,0,Minnesota
+47036,2020-04-10,Blue Earth,22,0,Minnesota
+47037,2020-04-10,Brown,7,1,Minnesota
+47038,2020-04-10,Carlton,18,0,Minnesota
+47039,2020-04-10,Carver,12,0,Minnesota
+47040,2020-04-10,Cass,3,0,Minnesota
+47041,2020-04-10,Chisago,6,1,Minnesota
+47042,2020-04-10,Clay,29,0,Minnesota
+47043,2020-04-10,Clearwater,2,0,Minnesota
+47044,2020-04-10,Cottonwood,5,0,Minnesota
+47045,2020-04-10,Crow Wing,13,0,Minnesota
+47046,2020-04-10,Dakota,85,4,Minnesota
+47047,2020-04-10,Dodge,14,0,Minnesota
+47048,2020-04-10,Douglas,1,0,Minnesota
+47049,2020-04-10,Faribault,4,0,Minnesota
+47050,2020-04-10,Fillmore,10,0,Minnesota
+47051,2020-04-10,Freeborn,21,0,Minnesota
+47052,2020-04-10,Goodhue,14,0,Minnesota
+47053,2020-04-10,Hennepin,415,27,Minnesota
+47054,2020-04-10,Houston,1,0,Minnesota
+47055,2020-04-10,Isanti,4,0,Minnesota
+47056,2020-04-10,Itasca,2,0,Minnesota
+47057,2020-04-10,Jackson,1,0,Minnesota
+47058,2020-04-10,Kandiyohi,2,0,Minnesota
+47059,2020-04-10,Koochiching,1,0,Minnesota
+47060,2020-04-10,Lac qui Parle,1,0,Minnesota
+47061,2020-04-10,Le Sueur,20,0,Minnesota
+47062,2020-04-10,Lincoln,2,0,Minnesota
+47063,2020-04-10,Lyon,5,0,Minnesota
+47064,2020-04-10,Mahnomen,1,0,Minnesota
+47065,2020-04-10,Martin,36,4,Minnesota
+47066,2020-04-10,McLeod,2,0,Minnesota
+47067,2020-04-10,Meeker,2,0,Minnesota
+47068,2020-04-10,Mower,22,0,Minnesota
+47069,2020-04-10,Murray,1,0,Minnesota
+47070,2020-04-10,Nicollet,6,0,Minnesota
+47071,2020-04-10,Nobles,1,0,Minnesota
+47072,2020-04-10,Olmsted,126,2,Minnesota
+47073,2020-04-10,Otter Tail,3,0,Minnesota
+47074,2020-04-10,Pine,3,0,Minnesota
+47075,2020-04-10,Pipestone,1,0,Minnesota
+47076,2020-04-10,Polk,1,0,Minnesota
+47077,2020-04-10,Ramsey,124,5,Minnesota
+47078,2020-04-10,Redwood,1,0,Minnesota
+47079,2020-04-10,Renville,2,0,Minnesota
+47080,2020-04-10,Rice,4,0,Minnesota
+47081,2020-04-10,Roseau,1,0,Minnesota
+47082,2020-04-10,Scott,19,1,Minnesota
+47083,2020-04-10,Sherburne,9,0,Minnesota
+47084,2020-04-10,Sibley,1,0,Minnesota
+47085,2020-04-10,St. Louis,34,4,Minnesota
+47086,2020-04-10,Stearns,7,0,Minnesota
+47087,2020-04-10,Steele,9,0,Minnesota
+47088,2020-04-10,Swift,1,0,Minnesota
+47089,2020-04-10,Traverse,2,0,Minnesota
+47090,2020-04-10,Wabasha,6,0,Minnesota
+47091,2020-04-10,Waseca,3,0,Minnesota
+47092,2020-04-10,Washington,73,2,Minnesota
+47093,2020-04-10,Watonwan,4,0,Minnesota
+47094,2020-04-10,Wilkin,6,1,Minnesota
+47095,2020-04-10,Winona,26,5,Minnesota
+47096,2020-04-10,Wright,14,0,Minnesota
+47097,2020-04-10,Yellow Medicine,2,0,Minnesota
+47098,2020-04-10,Adams,42,1,Mississippi
+47099,2020-04-10,Alcorn,7,0,Mississippi
+47100,2020-04-10,Amite,10,1,Mississippi
+47101,2020-04-10,Attala,17,0,Mississippi
+47102,2020-04-10,Benton,5,0,Mississippi
+47103,2020-04-10,Bolivar,61,3,Mississippi
+47104,2020-04-10,Calhoun,13,0,Mississippi
+47105,2020-04-10,Carroll,7,0,Mississippi
+47106,2020-04-10,Chickasaw,21,2,Mississippi
+47107,2020-04-10,Choctaw,9,1,Mississippi
+47108,2020-04-10,Claiborne,3,0,Mississippi
+47109,2020-04-10,Clarke,13,1,Mississippi
+47110,2020-04-10,Clay,17,0,Mississippi
+47111,2020-04-10,Coahoma,37,1,Mississippi
+47112,2020-04-10,Copiah,30,0,Mississippi
+47113,2020-04-10,Covington,8,0,Mississippi
+47114,2020-04-10,DeSoto,158,1,Mississippi
+47115,2020-04-10,Forrest,76,2,Mississippi
+47116,2020-04-10,Franklin,9,0,Mississippi
+47117,2020-04-10,George,7,0,Mississippi
+47118,2020-04-10,Greene,1,0,Mississippi
+47119,2020-04-10,Grenada,10,0,Mississippi
+47120,2020-04-10,Hancock,37,5,Mississippi
+47121,2020-04-10,Harrison,99,4,Mississippi
+47122,2020-04-10,Hinds,219,2,Mississippi
+47123,2020-04-10,Holmes,39,3,Mississippi
+47124,2020-04-10,Humphreys,9,1,Mississippi
+47125,2020-04-10,Itawamba,8,0,Mississippi
+47126,2020-04-10,Jackson,135,5,Mississippi
+47127,2020-04-10,Jasper,10,0,Mississippi
+47128,2020-04-10,Jefferson,4,0,Mississippi
+47129,2020-04-10,Jefferson Davis,5,0,Mississippi
+47130,2020-04-10,Jones,25,0,Mississippi
+47131,2020-04-10,Kemper,14,0,Mississippi
+47132,2020-04-10,Lafayette,28,1,Mississippi
+47133,2020-04-10,Lamar,28,1,Mississippi
+47134,2020-04-10,Lauderdale,118,6,Mississippi
+47135,2020-04-10,Lawrence,7,0,Mississippi
+47136,2020-04-10,Leake,22,0,Mississippi
+47137,2020-04-10,Lee,41,2,Mississippi
+47138,2020-04-10,Leflore,43,4,Mississippi
+47139,2020-04-10,Lincoln,41,3,Mississippi
+47140,2020-04-10,Lowndes,19,0,Mississippi
+47141,2020-04-10,Madison,95,2,Mississippi
+47142,2020-04-10,Marion,17,0,Mississippi
+47143,2020-04-10,Marshall,28,1,Mississippi
+47144,2020-04-10,Monroe,25,1,Mississippi
+47145,2020-04-10,Montgomery,14,1,Mississippi
+47146,2020-04-10,Neshoba,21,0,Mississippi
+47147,2020-04-10,Newton,10,0,Mississippi
+47148,2020-04-10,Noxubee,6,0,Mississippi
+47149,2020-04-10,Oktibbeha,36,1,Mississippi
+47150,2020-04-10,Panola,22,1,Mississippi
+47151,2020-04-10,Pearl River,77,4,Mississippi
+47152,2020-04-10,Perry,15,1,Mississippi
+47153,2020-04-10,Pike,39,1,Mississippi
+47154,2020-04-10,Pontotoc,14,1,Mississippi
+47155,2020-04-10,Prentiss,12,0,Mississippi
+47156,2020-04-10,Quitman,12,0,Mississippi
+47157,2020-04-10,Rankin,88,2,Mississippi
+47158,2020-04-10,Scott,47,0,Mississippi
+47159,2020-04-10,Sharkey,3,0,Mississippi
+47160,2020-04-10,Simpson,7,0,Mississippi
+47161,2020-04-10,Smith,17,1,Mississippi
+47162,2020-04-10,Stone,5,0,Mississippi
+47163,2020-04-10,Sunflower,34,1,Mississippi
+47164,2020-04-10,Tallahatchie,3,0,Mississippi
+47165,2020-04-10,Tate,22,0,Mississippi
+47166,2020-04-10,Tippah,42,6,Mississippi
+47167,2020-04-10,Tishomingo,2,0,Mississippi
+47168,2020-04-10,Tunica,18,1,Mississippi
+47169,2020-04-10,Union,7,0,Mississippi
+47170,2020-04-10,Walthall,16,0,Mississippi
+47171,2020-04-10,Warren,12,0,Mississippi
+47172,2020-04-10,Washington,48,2,Mississippi
+47173,2020-04-10,Wayne,7,0,Mississippi
+47174,2020-04-10,Webster,13,1,Mississippi
+47175,2020-04-10,Wilkinson,40,3,Mississippi
+47176,2020-04-10,Winston,17,0,Mississippi
+47177,2020-04-10,Yalobusha,11,0,Mississippi
+47178,2020-04-10,Yazoo,55,1,Mississippi
+47179,2020-04-10,Adair,11,0,Missouri
+47180,2020-04-10,Atchison,1,0,Missouri
+47181,2020-04-10,Barry,2,0,Missouri
+47182,2020-04-10,Bates,6,0,Missouri
+47183,2020-04-10,Benton,3,0,Missouri
+47184,2020-04-10,Bollinger,3,0,Missouri
+47185,2020-04-10,Boone,77,1,Missouri
+47186,2020-04-10,Buchanan,20,1,Missouri
+47187,2020-04-10,Butler,10,0,Missouri
+47188,2020-04-10,Caldwell,1,0,Missouri
+47189,2020-04-10,Callaway,21,1,Missouri
+47190,2020-04-10,Camden,26,1,Missouri
+47191,2020-04-10,Cape Girardeau,26,1,Missouri
+47192,2020-04-10,Carter,3,1,Missouri
+47193,2020-04-10,Cass,27,2,Missouri
+47194,2020-04-10,Cedar,5,0,Missouri
+47195,2020-04-10,Chariton,4,0,Missouri
+47196,2020-04-10,Christian,17,0,Missouri
+47197,2020-04-10,Clark,1,0,Missouri
+47198,2020-04-10,Clay,40,1,Missouri
+47199,2020-04-10,Clinton,10,0,Missouri
+47200,2020-04-10,Cole,35,1,Missouri
+47201,2020-04-10,Cooper,3,0,Missouri
+47202,2020-04-10,Crawford,4,0,Missouri
+47203,2020-04-10,Dallas,2,0,Missouri
+47204,2020-04-10,DeKalb,3,0,Missouri
+47205,2020-04-10,Dunklin,12,0,Missouri
+47206,2020-04-10,Franklin,68,3,Missouri
+47207,2020-04-10,Gasconade,2,0,Missouri
+47208,2020-04-10,Gentry,1,0,Missouri
+47209,2020-04-10,Greene,71,8,Missouri
+47210,2020-04-10,Harrison,6,0,Missouri
+47211,2020-04-10,Henry,2,1,Missouri
+47212,2020-04-10,Howard,1,0,Missouri
+47213,2020-04-10,Howell,4,0,Missouri
+47214,2020-04-10,Jackson,193,5,Missouri
+47215,2020-04-10,Jasper,13,0,Missouri
+47216,2020-04-10,Jefferson,107,3,Missouri
+47217,2020-04-10,Johnson,36,0,Missouri
+47218,2020-04-10,Kansas City,283,8,Missouri
+47219,2020-04-10,Lafayette,28,1,Missouri
+47220,2020-04-10,Lincoln,25,1,Missouri
+47221,2020-04-10,Linn,3,0,Missouri
+47222,2020-04-10,Livingston,1,0,Missouri
+47223,2020-04-10,Macon,2,0,Missouri
+47224,2020-04-10,Madison,1,0,Missouri
+47225,2020-04-10,Maries,2,0,Missouri
+47226,2020-04-10,McDonald,3,0,Missouri
+47227,2020-04-10,Moniteau,3,0,Missouri
+47228,2020-04-10,Montgomery,6,0,Missouri
+47229,2020-04-10,Morgan,1,0,Missouri
+47230,2020-04-10,New Madrid,6,0,Missouri
+47231,2020-04-10,Newton,7,0,Missouri
+47232,2020-04-10,Nodaway,2,0,Missouri
+47233,2020-04-10,Oregon,1,0,Missouri
+47234,2020-04-10,Osage,4,0,Missouri
+47235,2020-04-10,Pemiscot,4,0,Missouri
+47236,2020-04-10,Perry,31,0,Missouri
+47237,2020-04-10,Pettis,4,0,Missouri
+47238,2020-04-10,Phelps,1,0,Missouri
+47239,2020-04-10,Pike,5,0,Missouri
+47240,2020-04-10,Platte,23,0,Missouri
+47241,2020-04-10,Polk,1,0,Missouri
+47242,2020-04-10,Pulaski,10,1,Missouri
+47243,2020-04-10,Ralls,1,0,Missouri
+47244,2020-04-10,Randolph,8,0,Missouri
+47245,2020-04-10,Ray,7,0,Missouri
+47246,2020-04-10,Reynolds,2,0,Missouri
+47247,2020-04-10,Ripley,3,0,Missouri
+47248,2020-04-10,Saline,18,0,Missouri
+47249,2020-04-10,Scotland,2,0,Missouri
+47250,2020-04-10,Scott,13,0,Missouri
+47251,2020-04-10,Shelby,1,0,Missouri
+47252,2020-04-10,St. Charles,298,11,Missouri
+47253,2020-04-10,St. Clair,2,0,Missouri
+47254,2020-04-10,St. Francois,20,1,Missouri
+47255,2020-04-10,St. Louis,1498,33,Missouri
+47256,2020-04-10,St. Louis city,536,17,Missouri
+47257,2020-04-10,Ste. Genevieve,6,1,Missouri
+47258,2020-04-10,Stoddard,9,0,Missouri
+47259,2020-04-10,Stone,3,0,Missouri
+47260,2020-04-10,Taney,7,1,Missouri
+47261,2020-04-10,Unknown,1,0,Missouri
+47262,2020-04-10,Vernon,3,0,Missouri
+47263,2020-04-10,Warren,11,0,Missouri
+47264,2020-04-10,Washington,1,0,Missouri
+47265,2020-04-10,Webster,3,0,Missouri
+47266,2020-04-10,Worth,1,0,Missouri
+47267,2020-04-10,Wright,7,0,Missouri
+47268,2020-04-10,Beaverhead,1,0,Montana
+47269,2020-04-10,Big Horn,1,0,Montana
+47270,2020-04-10,Broadwater,4,0,Montana
+47271,2020-04-10,Carbon,6,0,Montana
+47272,2020-04-10,Cascade,12,0,Montana
+47273,2020-04-10,Deer Lodge,3,0,Montana
+47274,2020-04-10,Flathead,34,0,Montana
+47275,2020-04-10,Gallatin,134,0,Montana
+47276,2020-04-10,Glacier,3,0,Montana
+47277,2020-04-10,Hill,1,0,Montana
+47278,2020-04-10,Jefferson,2,0,Montana
+47279,2020-04-10,Lake,5,0,Montana
+47280,2020-04-10,Lewis and Clark,16,0,Montana
+47281,2020-04-10,Liberty,1,0,Montana
+47282,2020-04-10,Lincoln,7,1,Montana
+47283,2020-04-10,Madison,8,1,Montana
+47284,2020-04-10,Meagher,1,0,Montana
+47285,2020-04-10,Missoula,26,1,Montana
+47286,2020-04-10,Musselshell,1,0,Montana
+47287,2020-04-10,Park,7,0,Montana
+47288,2020-04-10,Ravalli,3,0,Montana
+47289,2020-04-10,Richland,2,0,Montana
+47290,2020-04-10,Roosevelt,2,0,Montana
+47291,2020-04-10,Silver Bow,11,0,Montana
+47292,2020-04-10,Stillwater,1,0,Montana
+47293,2020-04-10,Toole,18,3,Montana
+47294,2020-04-10,Yellowstone,55,0,Montana
+47295,2020-04-10,Adams,39,0,Nebraska
+47296,2020-04-10,Antelope,1,0,Nebraska
+47297,2020-04-10,Buffalo,31,1,Nebraska
+47298,2020-04-10,Burt,1,0,Nebraska
+47299,2020-04-10,Cass,3,0,Nebraska
+47300,2020-04-10,Cedar,1,0,Nebraska
+47301,2020-04-10,Cherry,1,0,Nebraska
+47302,2020-04-10,Cheyenne,1,0,Nebraska
+47303,2020-04-10,Clay,1,0,Nebraska
+47304,2020-04-10,Colfax,4,0,Nebraska
+47305,2020-04-10,Cuming,2,0,Nebraska
+47306,2020-04-10,Custer,3,1,Nebraska
+47307,2020-04-10,Dawson,3,0,Nebraska
+47308,2020-04-10,Dodge,7,0,Nebraska
+47309,2020-04-10,Douglas,236,7,Nebraska
+47310,2020-04-10,Franklin,2,0,Nebraska
+47311,2020-04-10,Gage,25,1,Nebraska
+47312,2020-04-10,Gosper,1,0,Nebraska
+47313,2020-04-10,Hall,129,4,Nebraska
+47314,2020-04-10,Hamilton,9,0,Nebraska
+47315,2020-04-10,Johnson,1,0,Nebraska
+47316,2020-04-10,Kearney,3,0,Nebraska
+47317,2020-04-10,Kimball,9,0,Nebraska
+47318,2020-04-10,Knox,2,0,Nebraska
+47319,2020-04-10,Lancaster,49,1,Nebraska
+47320,2020-04-10,Lincoln,17,1,Nebraska
+47321,2020-04-10,Madison,6,2,Nebraska
+47322,2020-04-10,Merrick,2,0,Nebraska
+47323,2020-04-10,Nemaha,1,0,Nebraska
+47324,2020-04-10,Otoe,1,0,Nebraska
+47325,2020-04-10,Phelps,1,0,Nebraska
+47326,2020-04-10,Platte,6,0,Nebraska
+47327,2020-04-10,Polk,1,0,Nebraska
+47328,2020-04-10,Sarpy,39,0,Nebraska
+47329,2020-04-10,Saunders,5,0,Nebraska
+47330,2020-04-10,Scotts Bluff,10,0,Nebraska
+47331,2020-04-10,Seward,1,0,Nebraska
+47332,2020-04-10,Stanton,1,0,Nebraska
+47333,2020-04-10,Washington,20,0,Nebraska
+47334,2020-04-10,Webster,1,0,Nebraska
+47335,2020-04-10,York,3,0,Nebraska
+47336,2020-04-10,Carson City,16,0,Nevada
+47337,2020-04-10,Clark,2144,75,Nevada
+47338,2020-04-10,Douglas,10,0,Nevada
+47339,2020-04-10,Elko,11,1,Nevada
+47340,2020-04-10,Humboldt,18,0,Nevada
+47341,2020-04-10,Lyon,7,0,Nevada
+47342,2020-04-10,Nye,10,0,Nevada
+47343,2020-04-10,Washoe,389,10,Nevada
+47344,2020-04-10,White Pine,1,0,Nevada
+47345,2020-04-10,Belknap,21,0,New Hampshire
+47346,2020-04-10,Carroll,28,0,New Hampshire
+47347,2020-04-10,Cheshire,17,2,New Hampshire
+47348,2020-04-10,Coos,2,0,New Hampshire
+47349,2020-04-10,Grafton,43,0,New Hampshire
+47350,2020-04-10,Hillsborough,344,15,New Hampshire
+47351,2020-04-10,Merrimack,66,2,New Hampshire
+47352,2020-04-10,Rockingham,305,2,New Hampshire
+47353,2020-04-10,Strafford,53,0,New Hampshire
+47354,2020-04-10,Sullivan,6,1,New Hampshire
+47355,2020-04-10,Atlantic,211,6,New Jersey
+47356,2020-04-10,Bergen,8928,390,New Jersey
+47357,2020-04-10,Burlington,954,22,New Jersey
+47358,2020-04-10,Camden,1072,29,New Jersey
+47359,2020-04-10,Cape May,116,5,New Jersey
+47360,2020-04-10,Cumberland,138,3,New Jersey
+47361,2020-04-10,Essex,6580,352,New Jersey
+47362,2020-04-10,Gloucester,447,8,New Jersey
+47363,2020-04-10,Hudson,6411,163,New Jersey
+47364,2020-04-10,Hunterdon,293,7,New Jersey
+47365,2020-04-10,Mercer,1282,39,New Jersey
+47366,2020-04-10,Middlesex,5060,168,New Jersey
+47367,2020-04-10,Monmouth,3496,107,New Jersey
+47368,2020-04-10,Morris,2771,135,New Jersey
+47369,2020-04-10,Ocean,3269,121,New Jersey
+47370,2020-04-10,Passaic,5017,101,New Jersey
+47371,2020-04-10,Salem,46,3,New Jersey
+47372,2020-04-10,Somerset,1523,69,New Jersey
+47373,2020-04-10,Sussex,413,26,New Jersey
+47374,2020-04-10,Union,5575,161,New Jersey
+47375,2020-04-10,Unknown,649,2,New Jersey
+47376,2020-04-10,Warren,337,15,New Jersey
+47377,2020-04-10,Bernalillo,407,13,New Mexico
+47378,2020-04-10,Catron,1,0,New Mexico
+47379,2020-04-10,Chaves,18,0,New Mexico
+47380,2020-04-10,Cibola,24,0,New Mexico
+47381,2020-04-10,Colfax,1,0,New Mexico
+47382,2020-04-10,Curry,9,0,New Mexico
+47383,2020-04-10,Doña Ana,44,0,New Mexico
+47384,2020-04-10,Eddy,6,1,New Mexico
+47385,2020-04-10,Grant,7,0,New Mexico
+47386,2020-04-10,Hidalgo,1,0,New Mexico
+47387,2020-04-10,Lea,2,0,New Mexico
+47388,2020-04-10,Lincoln,1,0,New Mexico
+47389,2020-04-10,Los Alamos,4,0,New Mexico
+47390,2020-04-10,Luna,2,0,New Mexico
+47391,2020-04-10,McKinley,113,2,New Mexico
+47392,2020-04-10,Otero,3,0,New Mexico
+47393,2020-04-10,Rio Arriba,7,0,New Mexico
+47394,2020-04-10,Roosevelt,1,0,New Mexico
+47395,2020-04-10,San Juan,142,0,New Mexico
+47396,2020-04-10,San Miguel,1,0,New Mexico
+47397,2020-04-10,Sandoval,177,3,New Mexico
+47398,2020-04-10,Santa Fe,72,0,New Mexico
+47399,2020-04-10,Socorro,10,0,New Mexico
+47400,2020-04-10,Taos,15,0,New Mexico
+47401,2020-04-10,Torrance,9,0,New Mexico
+47402,2020-04-10,Valencia,14,0,New Mexico
+47403,2020-04-10,Albany,426,14,New York
+47404,2020-04-10,Allegany,26,0,New York
+47405,2020-04-10,Broome,112,6,New York
+47406,2020-04-10,Cattaraugus,18,0,New York
+47407,2020-04-10,Cayuga,27,1,New York
+47408,2020-04-10,Chautauqua,20,1,New York
+47409,2020-04-10,Chemung,59,2,New York
+47410,2020-04-10,Chenango,60,0,New York
+47411,2020-04-10,Clinton,43,0,New York
+47412,2020-04-10,Columbia,74,4,New York
+47413,2020-04-10,Cortland,17,0,New York
+47414,2020-04-10,Delaware,39,0,New York
+47415,2020-04-10,Dutchess,1598,25,New York
+47416,2020-04-10,Erie,1409,58,New York
+47417,2020-04-10,Essex,10,0,New York
+47418,2020-04-10,Franklin,11,0,New York
+47419,2020-04-10,Fulton,18,0,New York
+47420,2020-04-10,Genesee,65,0,New York
+47421,2020-04-10,Greene,34,0,New York
+47422,2020-04-10,Hamilton,3,0,New York
+47423,2020-04-10,Herkimer,36,1,New York
+47424,2020-04-10,Jefferson,43,0,New York
+47425,2020-04-10,Lewis,6,0,New York
+47426,2020-04-10,Livingston,29,1,New York
+47427,2020-04-10,Madison,99,1,New York
+47428,2020-04-10,Monroe,742,35,New York
+47429,2020-04-10,Montgomery,29,1,New York
+47430,2020-04-10,Nassau,21512,890,New York
+47431,2020-04-10,New York City,92384,5663,New York
+47432,2020-04-10,Niagara,156,1,New York
+47433,2020-04-10,Oneida,172,2,New York
+47434,2020-04-10,Onondaga,369,11,New York
+47435,2020-04-10,Ontario,51,0,New York
+47436,2020-04-10,Orange,4532,91,New York
+47437,2020-04-10,Orleans,24,0,New York
+47438,2020-04-10,Oswego,36,0,New York
+47439,2020-04-10,Otsego,41,2,New York
+47440,2020-04-10,Putnam,487,18,New York
+47441,2020-04-10,Rensselaer,91,4,New York
+47442,2020-04-10,Rockland,7122,135,New York
+47443,2020-04-10,Saratoga,182,1,New York
+47444,2020-04-10,Schenectady,191,9,New York
+47445,2020-04-10,Schoharie,12,0,New York
+47446,2020-04-10,Schuyler,5,0,New York
+47447,2020-04-10,Seneca,15,0,New York
+47448,2020-04-10,St. Lawrence,78,1,New York
+47449,2020-04-10,Steuben,117,3,New York
+47450,2020-04-10,Suffolk,18692,425,New York
+47451,2020-04-10,Sullivan,318,7,New York
+47452,2020-04-10,Tioga,18,0,New York
+47453,2020-04-10,Tompkins,105,0,New York
+47454,2020-04-10,Ulster,530,2,New York
+47455,2020-04-10,Warren,43,1,New York
+47456,2020-04-10,Washington,26,0,New York
+47457,2020-04-10,Wayne,41,0,New York
+47458,2020-04-10,Westchester,18077,428,New York
+47459,2020-04-10,Wyoming,30,0,New York
+47460,2020-04-10,Yates,2,0,New York
+47461,2020-04-10,Alamance,33,0,North Carolina
+47462,2020-04-10,Alexander,2,0,North Carolina
+47463,2020-04-10,Alleghany,2,0,North Carolina
+47464,2020-04-10,Anson,9,0,North Carolina
+47465,2020-04-10,Ashe,3,0,North Carolina
+47466,2020-04-10,Beaufort,12,0,North Carolina
+47467,2020-04-10,Bertie,12,1,North Carolina
+47468,2020-04-10,Bladen,1,0,North Carolina
+47469,2020-04-10,Brunswick,30,2,North Carolina
+47470,2020-04-10,Buncombe,36,2,North Carolina
+47471,2020-04-10,Burke,44,2,North Carolina
+47472,2020-04-10,Cabarrus,94,2,North Carolina
+47473,2020-04-10,Caldwell,14,0,North Carolina
+47474,2020-04-10,Carteret,20,1,North Carolina
+47475,2020-04-10,Caswell,3,0,North Carolina
+47476,2020-04-10,Catawba,29,1,North Carolina
+47477,2020-04-10,Chatham,26,0,North Carolina
+47478,2020-04-10,Cherokee,10,1,North Carolina
+47479,2020-04-10,Chowan,2,0,North Carolina
+47480,2020-04-10,Clay,3,0,North Carolina
+47481,2020-04-10,Cleveland,32,0,North Carolina
+47482,2020-04-10,Columbus,20,1,North Carolina
+47483,2020-04-10,Craven,22,1,North Carolina
+47484,2020-04-10,Cumberland,75,1,North Carolina
+47485,2020-04-10,Currituck,3,0,North Carolina
+47486,2020-04-10,Dare,8,1,North Carolina
+47487,2020-04-10,Davidson,81,2,North Carolina
+47488,2020-04-10,Davie,21,2,North Carolina
+47489,2020-04-10,Duplin,12,0,North Carolina
+47490,2020-04-10,Durham,259,1,North Carolina
+47491,2020-04-10,Edgecombe,18,1,North Carolina
+47492,2020-04-10,Forsyth,111,3,North Carolina
+47493,2020-04-10,Franklin,26,1,North Carolina
+47494,2020-04-10,Gaston,73,3,North Carolina
+47495,2020-04-10,Gates,4,0,North Carolina
+47496,2020-04-10,Granville,87,0,North Carolina
+47497,2020-04-10,Greene,9,0,North Carolina
+47498,2020-04-10,Guilford,127,9,North Carolina
+47499,2020-04-10,Halifax,17,0,North Carolina
+47500,2020-04-10,Harnett,35,2,North Carolina
+47501,2020-04-10,Haywood,3,0,North Carolina
+47502,2020-04-10,Henderson,55,2,North Carolina
+47503,2020-04-10,Hertford,4,1,North Carolina
+47504,2020-04-10,Hoke,16,0,North Carolina
+47505,2020-04-10,Iredell,63,1,North Carolina
+47506,2020-04-10,Johnston,80,4,North Carolina
+47507,2020-04-10,Jones,3,0,North Carolina
+47508,2020-04-10,Lee,4,0,North Carolina
+47509,2020-04-10,Lenoir,13,0,North Carolina
+47510,2020-04-10,Lincoln,13,0,North Carolina
+47511,2020-04-10,Macon,2,1,North Carolina
+47512,2020-04-10,Martin,5,0,North Carolina
+47513,2020-04-10,McDowell,16,0,North Carolina
+47514,2020-04-10,Mecklenburg,906,10,North Carolina
+47515,2020-04-10,Mitchell,3,0,North Carolina
+47516,2020-04-10,Montgomery,12,1,North Carolina
+47517,2020-04-10,Moore,57,0,North Carolina
+47518,2020-04-10,Nash,29,1,North Carolina
+47519,2020-04-10,New Hanover,50,0,North Carolina
+47520,2020-04-10,Northampton,55,0,North Carolina
+47521,2020-04-10,Onslow,26,1,North Carolina
+47522,2020-04-10,Orange,104,1,North Carolina
+47523,2020-04-10,Pamlico,3,0,North Carolina
+47524,2020-04-10,Pasquotank,11,0,North Carolina
+47525,2020-04-10,Pender,4,0,North Carolina
+47526,2020-04-10,Perquimans,3,0,North Carolina
+47527,2020-04-10,Person,8,0,North Carolina
+47528,2020-04-10,Pitt,60,1,North Carolina
+47529,2020-04-10,Polk,8,0,North Carolina
+47530,2020-04-10,Randolph,46,2,North Carolina
+47531,2020-04-10,Richmond,4,0,North Carolina
+47532,2020-04-10,Robeson,7,0,North Carolina
+47533,2020-04-10,Rockingham,10,2,North Carolina
+47534,2020-04-10,Rowan,75,2,North Carolina
+47535,2020-04-10,Rutherford,31,1,North Carolina
+47536,2020-04-10,Sampson,10,0,North Carolina
+47537,2020-04-10,Scotland,4,0,North Carolina
+47538,2020-04-10,Stanly,11,1,North Carolina
+47539,2020-04-10,Stokes,8,0,North Carolina
+47540,2020-04-10,Surry,10,0,North Carolina
+47541,2020-04-10,Transylvania,6,0,North Carolina
+47542,2020-04-10,Union,100,1,North Carolina
+47543,2020-04-10,Vance,19,0,North Carolina
+47544,2020-04-10,Wake,391,0,North Carolina
+47545,2020-04-10,Warren,3,0,North Carolina
+47546,2020-04-10,Washington,13,1,North Carolina
+47547,2020-04-10,Watauga,7,0,North Carolina
+47548,2020-04-10,Wayne,52,0,North Carolina
+47549,2020-04-10,Wilkes,4,1,North Carolina
+47550,2020-04-10,Wilson,44,3,North Carolina
+47551,2020-04-10,Yadkin,10,0,North Carolina
+47552,2020-04-10,Barnes,2,0,North Dakota
+47553,2020-04-10,Bowman,1,0,North Dakota
+47554,2020-04-10,Burke,2,0,North Dakota
+47555,2020-04-10,Burleigh,48,0,North Dakota
+47556,2020-04-10,Cass,88,1,North Dakota
+47557,2020-04-10,Divide,1,0,North Dakota
+47558,2020-04-10,Dunn,2,0,North Dakota
+47559,2020-04-10,Eddy,1,0,North Dakota
+47560,2020-04-10,Emmons,1,1,North Dakota
+47561,2020-04-10,Foster,1,0,North Dakota
+47562,2020-04-10,Grand Forks,11,0,North Dakota
+47563,2020-04-10,Grant,1,0,North Dakota
+47564,2020-04-10,McHenry,1,1,North Dakota
+47565,2020-04-10,McIntosh,1,0,North Dakota
+47566,2020-04-10,McKenzie,6,0,North Dakota
+47567,2020-04-10,McLean,2,0,North Dakota
+47568,2020-04-10,Morton,19,1,North Dakota
+47569,2020-04-10,Mountrail,20,0,North Dakota
+47570,2020-04-10,Oliver,1,0,North Dakota
+47571,2020-04-10,Pierce,2,0,North Dakota
+47572,2020-04-10,Ramsey,3,0,North Dakota
+47573,2020-04-10,Richland,1,0,North Dakota
+47574,2020-04-10,Sargent,1,0,North Dakota
+47575,2020-04-10,Sioux,1,0,North Dakota
+47576,2020-04-10,Slope,3,0,North Dakota
+47577,2020-04-10,Stark,29,2,North Dakota
+47578,2020-04-10,Stutsman,1,0,North Dakota
+47579,2020-04-10,Unknown,0,1,North Dakota
+47580,2020-04-10,Walsh,3,0,North Dakota
+47581,2020-04-10,Ward,19,0,North Dakota
+47582,2020-04-10,Williams,6,0,North Dakota
+47583,2020-04-10,Unknown,11,2,Northern Mariana Islands
+47584,2020-04-10,Adams,3,0,Ohio
+47585,2020-04-10,Allen,24,1,Ohio
+47586,2020-04-10,Ashland,5,0,Ohio
+47587,2020-04-10,Ashtabula,19,0,Ohio
+47588,2020-04-10,Athens,3,1,Ohio
+47589,2020-04-10,Auglaize,9,1,Ohio
+47590,2020-04-10,Belmont,42,1,Ohio
+47591,2020-04-10,Brown,4,1,Ohio
+47592,2020-04-10,Butler,112,2,Ohio
+47593,2020-04-10,Carroll,10,0,Ohio
+47594,2020-04-10,Champaign,6,0,Ohio
+47595,2020-04-10,Clark,14,0,Ohio
+47596,2020-04-10,Clermont,36,1,Ohio
+47597,2020-04-10,Clinton,15,0,Ohio
+47598,2020-04-10,Columbiana,92,6,Ohio
+47599,2020-04-10,Coshocton,15,0,Ohio
+47600,2020-04-10,Crawford,13,0,Ohio
+47601,2020-04-10,Cuyahoga,1052,22,Ohio
+47602,2020-04-10,Darke,40,7,Ohio
+47603,2020-04-10,Defiance,11,0,Ohio
+47604,2020-04-10,Delaware,88,2,Ohio
+47605,2020-04-10,Erie,10,1,Ohio
+47606,2020-04-10,Fairfield,73,0,Ohio
+47607,2020-04-10,Fayette,5,0,Ohio
+47608,2020-04-10,Franklin,850,14,Ohio
+47609,2020-04-10,Fulton,5,0,Ohio
+47610,2020-04-10,Gallia,4,1,Ohio
+47611,2020-04-10,Geauga,49,1,Ohio
+47612,2020-04-10,Greene,22,1,Ohio
+47613,2020-04-10,Guernsey,5,0,Ohio
+47614,2020-04-10,Hamilton,504,14,Ohio
+47615,2020-04-10,Hancock,17,1,Ohio
+47616,2020-04-10,Hardin,4,0,Ohio
+47617,2020-04-10,Henry,1,0,Ohio
+47618,2020-04-10,Highland,6,0,Ohio
+47619,2020-04-10,Holmes,3,0,Ohio
+47620,2020-04-10,Huron,10,1,Ohio
+47621,2020-04-10,Jackson,2,0,Ohio
+47622,2020-04-10,Jefferson,20,0,Ohio
+47623,2020-04-10,Knox,9,1,Ohio
+47624,2020-04-10,Lake,108,6,Ohio
+47625,2020-04-10,Lawrence,15,0,Ohio
+47626,2020-04-10,Licking,79,3,Ohio
+47627,2020-04-10,Logan,7,0,Ohio
+47628,2020-04-10,Lorain,150,5,Ohio
+47629,2020-04-10,Lucas,443,20,Ohio
+47630,2020-04-10,Madison,23,2,Ohio
+47631,2020-04-10,Mahoning,358,31,Ohio
+47632,2020-04-10,Marion,42,0,Ohio
+47633,2020-04-10,Medina,103,5,Ohio
+47634,2020-04-10,Meigs,1,0,Ohio
+47635,2020-04-10,Mercer,12,1,Ohio
+47636,2020-04-10,Miami,113,14,Ohio
+47637,2020-04-10,Monroe,2,0,Ohio
+47638,2020-04-10,Montgomery,161,4,Ohio
+47639,2020-04-10,Morgan,2,0,Ohio
+47640,2020-04-10,Morrow,8,0,Ohio
+47641,2020-04-10,Muskingum,8,0,Ohio
+47642,2020-04-10,Noble,1,0,Ohio
+47643,2020-04-10,Ottawa,9,0,Ohio
+47644,2020-04-10,Paulding,2,0,Ohio
+47645,2020-04-10,Perry,7,0,Ohio
+47646,2020-04-10,Pickaway,44,0,Ohio
+47647,2020-04-10,Pike,1,0,Ohio
+47648,2020-04-10,Portage,124,14,Ohio
+47649,2020-04-10,Preble,10,1,Ohio
+47650,2020-04-10,Richland,28,1,Ohio
+47651,2020-04-10,Ross,12,0,Ohio
+47652,2020-04-10,Sandusky,7,1,Ohio
+47653,2020-04-10,Scioto,3,0,Ohio
+47654,2020-04-10,Seneca,8,1,Ohio
+47655,2020-04-10,Shelby,24,0,Ohio
+47656,2020-04-10,Stark,125,11,Ohio
+47657,2020-04-10,Summit,235,13,Ohio
+47658,2020-04-10,Trumbull,149,8,Ohio
+47659,2020-04-10,Tuscarawas,26,0,Ohio
+47660,2020-04-10,Union,10,0,Ohio
+47661,2020-04-10,Van Wert,2,0,Ohio
+47662,2020-04-10,Warren,72,0,Ohio
+47663,2020-04-10,Washington,35,1,Ohio
+47664,2020-04-10,Wayne,37,5,Ohio
+47665,2020-04-10,Williams,2,0,Ohio
+47666,2020-04-10,Wood,49,3,Ohio
+47667,2020-04-10,Wyandot,9,1,Ohio
+47668,2020-04-10,Adair,26,2,Oklahoma
+47669,2020-04-10,Atoka,1,0,Oklahoma
+47670,2020-04-10,Beaver,1,0,Oklahoma
+47671,2020-04-10,Beckham,1,0,Oklahoma
+47672,2020-04-10,Bryan,3,0,Oklahoma
+47673,2020-04-10,Caddo,8,0,Oklahoma
+47674,2020-04-10,Canadian,52,1,Oklahoma
+47675,2020-04-10,Carter,1,0,Oklahoma
+47676,2020-04-10,Cherokee,18,1,Oklahoma
+47677,2020-04-10,Choctaw,2,0,Oklahoma
+47678,2020-04-10,Cleveland,236,14,Oklahoma
+47679,2020-04-10,Comanche,47,0,Oklahoma
+47680,2020-04-10,Cotton,4,0,Oklahoma
+47681,2020-04-10,Craig,6,0,Oklahoma
+47682,2020-04-10,Creek,53,3,Oklahoma
+47683,2020-04-10,Custer,5,0,Oklahoma
+47684,2020-04-10,Delaware,23,0,Oklahoma
+47685,2020-04-10,Dewey,1,0,Oklahoma
+47686,2020-04-10,Garfield,5,1,Oklahoma
+47687,2020-04-10,Garvin,11,0,Oklahoma
+47688,2020-04-10,Grady,11,0,Oklahoma
+47689,2020-04-10,Grant,1,0,Oklahoma
+47690,2020-04-10,Greer,46,4,Oklahoma
+47691,2020-04-10,Jackson,6,0,Oklahoma
+47692,2020-04-10,Jefferson,1,0,Oklahoma
+47693,2020-04-10,Kay,41,3,Oklahoma
+47694,2020-04-10,Kingfisher,5,0,Oklahoma
+47695,2020-04-10,Kiowa,1,0,Oklahoma
+47696,2020-04-10,Latimer,4,1,Oklahoma
+47697,2020-04-10,Le Flore,3,0,Oklahoma
+47698,2020-04-10,Lincoln,11,0,Oklahoma
+47699,2020-04-10,Logan,7,0,Oklahoma
+47700,2020-04-10,Love,2,0,Oklahoma
+47701,2020-04-10,Major,1,0,Oklahoma
+47702,2020-04-10,Marshall,1,0,Oklahoma
+47703,2020-04-10,Mayes,13,2,Oklahoma
+47704,2020-04-10,McClain,18,0,Oklahoma
+47705,2020-04-10,McCurtain,2,0,Oklahoma
+47706,2020-04-10,Murray,1,0,Oklahoma
+47707,2020-04-10,Muskogee,21,2,Oklahoma
+47708,2020-04-10,Noble,6,0,Oklahoma
+47709,2020-04-10,Nowata,10,0,Oklahoma
+47710,2020-04-10,Okfuskee,1,0,Oklahoma
+47711,2020-04-10,Oklahoma,413,17,Oklahoma
+47712,2020-04-10,Okmulgee,13,0,Oklahoma
+47713,2020-04-10,Osage,45,7,Oklahoma
+47714,2020-04-10,Ottawa,17,0,Oklahoma
+47715,2020-04-10,Pawnee,26,2,Oklahoma
+47716,2020-04-10,Payne,28,0,Oklahoma
+47717,2020-04-10,Pittsburg,8,0,Oklahoma
+47718,2020-04-10,Pontotoc,9,0,Oklahoma
+47719,2020-04-10,Pottawatomie,25,2,Oklahoma
+47720,2020-04-10,Rogers,23,0,Oklahoma
+47721,2020-04-10,Seminole,6,1,Oklahoma
+47722,2020-04-10,Sequoyah,10,2,Oklahoma
+47723,2020-04-10,Stephens,13,1,Oklahoma
+47724,2020-04-10,Texas,3,0,Oklahoma
+47725,2020-04-10,Tillman,1,0,Oklahoma
+47726,2020-04-10,Tulsa,314,16,Oklahoma
+47727,2020-04-10,Wagoner,65,4,Oklahoma
+47728,2020-04-10,Washington,57,2,Oklahoma
+47729,2020-04-10,Woodward,1,0,Oklahoma
+47730,2020-04-10,Benton,21,2,Oregon
+47731,2020-04-10,Clackamas,116,3,Oregon
+47732,2020-04-10,Clatsop,6,0,Oregon
+47733,2020-04-10,Columbia,10,0,Oregon
+47734,2020-04-10,Crook,1,0,Oregon
+47735,2020-04-10,Curry,3,0,Oregon
+47736,2020-04-10,Deschutes,51,0,Oregon
+47737,2020-04-10,Douglas,12,0,Oregon
+47738,2020-04-10,Grant,1,0,Oregon
+47739,2020-04-10,Hood River,4,0,Oregon
+47740,2020-04-10,Jackson,44,0,Oregon
+47741,2020-04-10,Josephine,17,0,Oregon
+47742,2020-04-10,Klamath,24,0,Oregon
+47743,2020-04-10,Lane,34,1,Oregon
+47744,2020-04-10,Lincoln,4,0,Oregon
+47745,2020-04-10,Linn,49,4,Oregon
+47746,2020-04-10,Malheur,2,0,Oregon
+47747,2020-04-10,Marion,246,9,Oregon
+47748,2020-04-10,Morrow,5,0,Oregon
+47749,2020-04-10,Multnomah,317,17,Oregon
+47750,2020-04-10,Polk,29,1,Oregon
+47751,2020-04-10,Sherman,1,0,Oregon
+47752,2020-04-10,Tillamook,4,0,Oregon
+47753,2020-04-10,Umatilla,11,0,Oregon
+47754,2020-04-10,Union,3,0,Oregon
+47755,2020-04-10,Wallowa,1,0,Oregon
+47756,2020-04-10,Wasco,7,0,Oregon
+47757,2020-04-10,Washington,320,6,Oregon
+47758,2020-04-10,Yamhill,28,5,Oregon
+47759,2020-04-10,Adams,43,1,Pennsylvania
+47760,2020-04-10,Allegheny,788,18,Pennsylvania
+47761,2020-04-10,Armstrong,22,0,Pennsylvania
+47762,2020-04-10,Beaver,139,13,Pennsylvania
+47763,2020-04-10,Bedford,3,0,Pennsylvania
+47764,2020-04-10,Berks,720,12,Pennsylvania
+47765,2020-04-10,Blair,9,0,Pennsylvania
+47766,2020-04-10,Bradford,16,0,Pennsylvania
+47767,2020-04-10,Bucks,1107,32,Pennsylvania
+47768,2020-04-10,Butler,123,3,Pennsylvania
+47769,2020-04-10,Cambria,11,1,Pennsylvania
+47770,2020-04-10,Cameron,1,0,Pennsylvania
+47771,2020-04-10,Carbon,93,3,Pennsylvania
+47772,2020-04-10,Centre,61,0,Pennsylvania
+47773,2020-04-10,Chester,485,9,Pennsylvania
+47774,2020-04-10,Clarion,10,0,Pennsylvania
+47775,2020-04-10,Clearfield,8,0,Pennsylvania
+47776,2020-04-10,Clinton,6,0,Pennsylvania
+47777,2020-04-10,Columbia,81,2,Pennsylvania
+47778,2020-04-10,Crawford,13,0,Pennsylvania
+47779,2020-04-10,Cumberland,96,2,Pennsylvania
+47780,2020-04-10,Dauphin,199,2,Pennsylvania
+47781,2020-04-10,Delaware,1377,30,Pennsylvania
+47782,2020-04-10,Elk,2,0,Pennsylvania
+47783,2020-04-10,Erie,36,1,Pennsylvania
+47784,2020-04-10,Fayette,49,1,Pennsylvania
+47785,2020-04-10,Forest,5,0,Pennsylvania
+47786,2020-04-10,Franklin,57,0,Pennsylvania
+47787,2020-04-10,Fulton,1,0,Pennsylvania
+47788,2020-04-10,Greene,21,0,Pennsylvania
+47789,2020-04-10,Huntingdon,8,0,Pennsylvania
+47790,2020-04-10,Indiana,26,0,Pennsylvania
+47791,2020-04-10,Jefferson,1,0,Pennsylvania
+47792,2020-04-10,Juniata,30,0,Pennsylvania
+47793,2020-04-10,Lackawanna,346,18,Pennsylvania
+47794,2020-04-10,Lancaster,648,21,Pennsylvania
+47795,2020-04-10,Lawrence,45,3,Pennsylvania
+47796,2020-04-10,Lebanon,218,1,Pennsylvania
+47797,2020-04-10,Lehigh,1562,16,Pennsylvania
+47798,2020-04-10,Luzerne,1325,15,Pennsylvania
+47799,2020-04-10,Lycoming,18,0,Pennsylvania
+47800,2020-04-10,McKean,1,0,Pennsylvania
+47801,2020-04-10,Mercer,36,0,Pennsylvania
+47802,2020-04-10,Mifflin,11,0,Pennsylvania
+47803,2020-04-10,Monroe,752,19,Pennsylvania
+47804,2020-04-10,Montgomery,1889,62,Pennsylvania
+47805,2020-04-10,Montour,29,0,Pennsylvania
+47806,2020-04-10,Northampton,994,21,Pennsylvania
+47807,2020-04-10,Northumberland,29,0,Pennsylvania
+47808,2020-04-10,Perry,16,1,Pennsylvania
+47809,2020-04-10,Philadelphia,5521,110,Pennsylvania
+47810,2020-04-10,Pike,190,6,Pennsylvania
+47811,2020-04-10,Potter,3,0,Pennsylvania
+47812,2020-04-10,Schuylkill,164,1,Pennsylvania
+47813,2020-04-10,Snyder,12,1,Pennsylvania
+47814,2020-04-10,Somerset,10,0,Pennsylvania
+47815,2020-04-10,Sullivan,1,0,Pennsylvania
+47816,2020-04-10,Susquehanna,22,2,Pennsylvania
+47817,2020-04-10,Tioga,11,0,Pennsylvania
+47818,2020-04-10,Union,12,0,Pennsylvania
+47819,2020-04-10,Venango,5,0,Pennsylvania
+47820,2020-04-10,Warren,1,0,Pennsylvania
+47821,2020-04-10,Washington,66,0,Pennsylvania
+47822,2020-04-10,Wayne,53,0,Pennsylvania
+47823,2020-04-10,Westmoreland,202,5,Pennsylvania
+47824,2020-04-10,Wyoming,6,0,Pennsylvania
+47825,2020-04-10,York,283,3,Pennsylvania
+47826,2020-04-10,Unknown,725,39,Puerto Rico
+47827,2020-04-10,Bristol,37,0,Rhode Island
+47828,2020-04-10,Kent,152,0,Rhode Island
+47829,2020-04-10,Newport,57,0,Rhode Island
+47830,2020-04-10,Providence,957,20,Rhode Island
+47831,2020-04-10,Unknown,712,29,Rhode Island
+47832,2020-04-10,Washington,100,0,Rhode Island
+47833,2020-04-10,Abbeville,7,0,South Carolina
+47834,2020-04-10,Aiken,48,1,South Carolina
+47835,2020-04-10,Allendale,4,0,South Carolina
+47836,2020-04-10,Anderson,100,5,South Carolina
+47837,2020-04-10,Bamberg,6,0,South Carolina
+47838,2020-04-10,Barnwell,5,0,South Carolina
+47839,2020-04-10,Beaufort,186,5,South Carolina
+47840,2020-04-10,Berkeley,67,1,South Carolina
+47841,2020-04-10,Calhoun,6,1,South Carolina
+47842,2020-04-10,Charleston,328,1,South Carolina
+47843,2020-04-10,Cherokee,8,0,South Carolina
+47844,2020-04-10,Chester,17,0,South Carolina
+47845,2020-04-10,Chesterfield,22,0,South Carolina
+47846,2020-04-10,Clarendon,80,3,South Carolina
+47847,2020-04-10,Colleton,15,0,South Carolina
+47848,2020-04-10,Darlington,33,0,South Carolina
+47849,2020-04-10,Dillon,5,0,South Carolina
+47850,2020-04-10,Dorchester,65,0,South Carolina
+47851,2020-04-10,Edgefield,10,0,South Carolina
+47852,2020-04-10,Fairfield,18,0,South Carolina
+47853,2020-04-10,Florence,64,6,South Carolina
+47854,2020-04-10,Georgetown,28,1,South Carolina
+47855,2020-04-10,Greenville,308,6,South Carolina
+47856,2020-04-10,Greenwood,16,0,South Carolina
+47857,2020-04-10,Hampton,6,0,South Carolina
+47858,2020-04-10,Horry,124,7,South Carolina
+47859,2020-04-10,Jasper,11,0,South Carolina
+47860,2020-04-10,Kershaw,177,3,South Carolina
+47861,2020-04-10,Lancaster,61,0,South Carolina
+47862,2020-04-10,Laurens,11,1,South Carolina
+47863,2020-04-10,Lee,27,3,South Carolina
+47864,2020-04-10,Lexington,184,6,South Carolina
+47865,2020-04-10,Marion,5,1,South Carolina
+47866,2020-04-10,Marlboro,11,0,South Carolina
+47867,2020-04-10,McCormick,3,1,South Carolina
+47868,2020-04-10,Newberry,13,1,South Carolina
+47869,2020-04-10,Oconee,12,0,South Carolina
+47870,2020-04-10,Orangeburg,37,0,South Carolina
+47871,2020-04-10,Pickens,27,0,South Carolina
+47872,2020-04-10,Richland,452,10,South Carolina
+47873,2020-04-10,Saluda,6,0,South Carolina
+47874,2020-04-10,Spartanburg,150,4,South Carolina
+47875,2020-04-10,Sumter,142,3,South Carolina
+47876,2020-04-10,Union,20,0,South Carolina
+47877,2020-04-10,Williamsburg,15,0,South Carolina
+47878,2020-04-10,York,125,2,South Carolina
+47879,2020-04-10,Aurora,1,0,South Dakota
+47880,2020-04-10,Beadle,22,2,South Dakota
+47881,2020-04-10,Bon Homme,3,0,South Dakota
+47882,2020-04-10,Brookings,7,0,South Dakota
+47883,2020-04-10,Brown,14,0,South Dakota
+47884,2020-04-10,Charles Mix,3,0,South Dakota
+47885,2020-04-10,Clark,1,0,South Dakota
+47886,2020-04-10,Clay,6,0,South Dakota
+47887,2020-04-10,Codington,12,0,South Dakota
+47888,2020-04-10,Corson,1,0,South Dakota
+47889,2020-04-10,Davison,3,1,South Dakota
+47890,2020-04-10,Deuel,1,0,South Dakota
+47891,2020-04-10,Fall River,1,0,South Dakota
+47892,2020-04-10,Faulk,1,0,South Dakota
+47893,2020-04-10,Hamlin,1,0,South Dakota
+47894,2020-04-10,Hughes,4,0,South Dakota
+47895,2020-04-10,Hutchinson,2,0,South Dakota
+47896,2020-04-10,Jerauld,1,0,South Dakota
+47897,2020-04-10,Lake,2,0,South Dakota
+47898,2020-04-10,Lawrence,9,0,South Dakota
+47899,2020-04-10,Lincoln,38,0,South Dakota
+47900,2020-04-10,Lyman,2,0,South Dakota
+47901,2020-04-10,Marshall,1,0,South Dakota
+47902,2020-04-10,McCook,2,1,South Dakota
+47903,2020-04-10,Meade,1,0,South Dakota
+47904,2020-04-10,Miner,1,0,South Dakota
+47905,2020-04-10,Minnehaha,352,2,South Dakota
+47906,2020-04-10,Oglala Lakota,1,0,South Dakota
+47907,2020-04-10,Pennington,8,1,South Dakota
+47908,2020-04-10,Roberts,4,0,South Dakota
+47909,2020-04-10,Spink,3,0,South Dakota
+47910,2020-04-10,Todd,1,0,South Dakota
+47911,2020-04-10,Turner,5,0,South Dakota
+47912,2020-04-10,Union,3,0,South Dakota
+47913,2020-04-10,Unknown,0,4,South Dakota
+47914,2020-04-10,Yankton,19,0,South Dakota
+47915,2020-04-10,Anderson,11,1,Tennessee
+47916,2020-04-10,Bedford,15,1,Tennessee
+47917,2020-04-10,Benton,4,0,Tennessee
+47918,2020-04-10,Bledsoe,3,0,Tennessee
+47919,2020-04-10,Blount,45,3,Tennessee
+47920,2020-04-10,Bradley,31,0,Tennessee
+47921,2020-04-10,Campbell,10,0,Tennessee
+47922,2020-04-10,Cannon,7,0,Tennessee
+47923,2020-04-10,Carroll,10,0,Tennessee
+47924,2020-04-10,Carter,3,0,Tennessee
+47925,2020-04-10,Cheatham,17,0,Tennessee
+47926,2020-04-10,Chester,7,0,Tennessee
+47927,2020-04-10,Claiborne,3,0,Tennessee
+47928,2020-04-10,Clay,2,0,Tennessee
+47929,2020-04-10,Cocke,3,0,Tennessee
+47930,2020-04-10,Coffee,10,0,Tennessee
+47931,2020-04-10,Cumberland,39,0,Tennessee
+47932,2020-04-10,Davidson,1224,13,Tennessee
+47933,2020-04-10,DeKalb,8,0,Tennessee
+47934,2020-04-10,Decatur,1,0,Tennessee
+47935,2020-04-10,Dickson,29,0,Tennessee
+47936,2020-04-10,Dyer,15,0,Tennessee
+47937,2020-04-10,Fayette,28,0,Tennessee
+47938,2020-04-10,Fentress,2,0,Tennessee
+47939,2020-04-10,Franklin,17,1,Tennessee
+47940,2020-04-10,Gibson,18,0,Tennessee
+47941,2020-04-10,Giles,3,0,Tennessee
+47942,2020-04-10,Grainger,4,0,Tennessee
+47943,2020-04-10,Greene,25,1,Tennessee
+47944,2020-04-10,Grundy,19,0,Tennessee
+47945,2020-04-10,Hamblen,4,1,Tennessee
+47946,2020-04-10,Hamilton,102,10,Tennessee
+47947,2020-04-10,Hardeman,7,0,Tennessee
+47948,2020-04-10,Hardin,2,0,Tennessee
+47949,2020-04-10,Hawkins,22,1,Tennessee
+47950,2020-04-10,Haywood,13,1,Tennessee
+47951,2020-04-10,Henderson,2,0,Tennessee
+47952,2020-04-10,Henry,6,0,Tennessee
+47953,2020-04-10,Hickman,2,0,Tennessee
+47954,2020-04-10,Houston,3,0,Tennessee
+47955,2020-04-10,Humphreys,4,0,Tennessee
+47956,2020-04-10,Jackson,5,0,Tennessee
+47957,2020-04-10,Jefferson,13,0,Tennessee
+47958,2020-04-10,Johnson,2,0,Tennessee
+47959,2020-04-10,Knox,164,4,Tennessee
+47960,2020-04-10,Lauderdale,8,0,Tennessee
+47961,2020-04-10,Lawrence,12,0,Tennessee
+47962,2020-04-10,Lewis,2,0,Tennessee
+47963,2020-04-10,Lincoln,8,0,Tennessee
+47964,2020-04-10,Loudon,16,0,Tennessee
+47965,2020-04-10,Macon,19,2,Tennessee
+47966,2020-04-10,Madison,56,0,Tennessee
+47967,2020-04-10,Marion,22,1,Tennessee
+47968,2020-04-10,Marshall,9,1,Tennessee
+47969,2020-04-10,Maury,32,1,Tennessee
+47970,2020-04-10,McMinn,4,0,Tennessee
+47971,2020-04-10,McNairy,9,0,Tennessee
+47972,2020-04-10,Meigs,3,0,Tennessee
+47973,2020-04-10,Monroe,8,0,Tennessee
+47974,2020-04-10,Montgomery,84,2,Tennessee
+47975,2020-04-10,Morgan,5,0,Tennessee
+47976,2020-04-10,Obion,5,1,Tennessee
+47977,2020-04-10,Overton,5,0,Tennessee
+47978,2020-04-10,Perry,3,0,Tennessee
+47979,2020-04-10,Polk,5,0,Tennessee
+47980,2020-04-10,Putnam,84,0,Tennessee
+47981,2020-04-10,Roane,5,0,Tennessee
+47982,2020-04-10,Robertson,73,0,Tennessee
+47983,2020-04-10,Rutherford,222,6,Tennessee
+47984,2020-04-10,Scott,8,0,Tennessee
+47985,2020-04-10,Sequatchie,1,0,Tennessee
+47986,2020-04-10,Sevier,21,0,Tennessee
+47987,2020-04-10,Shelby,1083,25,Tennessee
+47988,2020-04-10,Smith,5,0,Tennessee
+47989,2020-04-10,Stewart,3,0,Tennessee
+47990,2020-04-10,Sullivan,35,1,Tennessee
+47991,2020-04-10,Sumner,413,21,Tennessee
+47992,2020-04-10,Tipton,43,0,Tennessee
+47993,2020-04-10,Trousdale,14,1,Tennessee
+47994,2020-04-10,Unicoi,1,0,Tennessee
+47995,2020-04-10,Union,3,0,Tennessee
+47996,2020-04-10,Unknown,22,0,Tennessee
+47997,2020-04-10,Warren,3,0,Tennessee
+47998,2020-04-10,Washington,37,0,Tennessee
+47999,2020-04-10,Wayne,2,0,Tennessee
+48000,2020-04-10,Weakley,5,0,Tennessee
+48001,2020-04-10,White,3,0,Tennessee
+48002,2020-04-10,Williamson,299,4,Tennessee
+48003,2020-04-10,Wilson,129,1,Tennessee
+48004,2020-04-10,Anderson,3,0,Texas
+48005,2020-04-10,Andrews,11,0,Texas
+48006,2020-04-10,Angelina,16,0,Texas
+48007,2020-04-10,Aransas,2,0,Texas
+48008,2020-04-10,Atascosa,8,0,Texas
+48009,2020-04-10,Austin,8,0,Texas
+48010,2020-04-10,Bandera,1,0,Texas
+48011,2020-04-10,Bastrop,26,1,Texas
+48012,2020-04-10,Bee,1,0,Texas
+48013,2020-04-10,Bell,84,3,Texas
+48014,2020-04-10,Bexar,676,24,Texas
+48015,2020-04-10,Blanco,4,0,Texas
+48016,2020-04-10,Bowie,35,5,Texas
+48017,2020-04-10,Brazoria,199,2,Texas
+48018,2020-04-10,Brazos,116,9,Texas
+48019,2020-04-10,Brown,8,0,Texas
+48020,2020-04-10,Burleson,6,0,Texas
+48021,2020-04-10,Burnet,6,0,Texas
+48022,2020-04-10,Caldwell,6,0,Texas
+48023,2020-04-10,Calhoun,14,0,Texas
+48024,2020-04-10,Callahan,1,0,Texas
+48025,2020-04-10,Cameron,147,3,Texas
+48026,2020-04-10,Camp,3,0,Texas
+48027,2020-04-10,Cass,5,2,Texas
+48028,2020-04-10,Castro,10,1,Texas
+48029,2020-04-10,Chambers,24,0,Texas
+48030,2020-04-10,Cherokee,6,0,Texas
+48031,2020-04-10,Clay,3,0,Texas
+48032,2020-04-10,Collin,406,6,Texas
+48033,2020-04-10,Colorado,6,0,Texas
+48034,2020-04-10,Comal,37,4,Texas
+48035,2020-04-10,Comanche,3,0,Texas
+48036,2020-04-10,Concho,1,0,Texas
+48037,2020-04-10,Cooke,1,0,Texas
+48038,2020-04-10,Coryell,18,0,Texas
+48039,2020-04-10,Crane,2,0,Texas
+48040,2020-04-10,Crosby,1,0,Texas
+48041,2020-04-10,Dallam,1,0,Texas
+48042,2020-04-10,Dallas,1537,25,Texas
+48043,2020-04-10,Dawson,5,1,Texas
+48044,2020-04-10,DeWitt,8,0,Texas
+48045,2020-04-10,Deaf Smith,7,0,Texas
+48046,2020-04-10,Delta,1,0,Texas
+48047,2020-04-10,Denton,426,9,Texas
+48048,2020-04-10,Dickens,1,0,Texas
+48049,2020-04-10,Donley,21,0,Texas
+48050,2020-04-10,Eastland,3,0,Texas
+48051,2020-04-10,Ector,39,1,Texas
+48052,2020-04-10,El Paso,252,2,Texas
+48053,2020-04-10,Ellis,63,2,Texas
+48054,2020-04-10,Erath,10,1,Texas
+48055,2020-04-10,Falls,1,0,Texas
+48056,2020-04-10,Fannin,5,0,Texas
+48057,2020-04-10,Fayette,17,0,Texas
+48058,2020-04-10,Floyd,1,0,Texas
+48059,2020-04-10,Fort Bend,485,10,Texas
+48060,2020-04-10,Franklin,1,0,Texas
+48061,2020-04-10,Frio,1,0,Texas
+48062,2020-04-10,Gaines,1,0,Texas
+48063,2020-04-10,Galveston,341,8,Texas
+48064,2020-04-10,Gillespie,2,0,Texas
+48065,2020-04-10,Goliad,4,0,Texas
+48066,2020-04-10,Gonzales,2,0,Texas
+48067,2020-04-10,Gray,12,0,Texas
+48068,2020-04-10,Grayson,17,0,Texas
+48069,2020-04-10,Gregg,39,0,Texas
+48070,2020-04-10,Grimes,6,0,Texas
+48071,2020-04-10,Guadalupe,47,0,Texas
+48072,2020-04-10,Hale,9,1,Texas
+48073,2020-04-10,Hamilton,1,0,Texas
+48074,2020-04-10,Hansford,1,0,Texas
+48075,2020-04-10,Hardin,41,2,Texas
+48076,2020-04-10,Harris,3261,40,Texas
+48077,2020-04-10,Harrison,12,1,Texas
+48078,2020-04-10,Hays,79,0,Texas
+48079,2020-04-10,Hemphill,1,0,Texas
+48080,2020-04-10,Henderson,10,0,Texas
+48081,2020-04-10,Hidalgo,146,1,Texas
+48082,2020-04-10,Hill,8,0,Texas
+48083,2020-04-10,Hockley,12,1,Texas
+48084,2020-04-10,Hood,16,1,Texas
+48085,2020-04-10,Hopkins,4,0,Texas
+48086,2020-04-10,Howard,1,0,Texas
+48087,2020-04-10,Hunt,15,0,Texas
+48088,2020-04-10,Hutchinson,2,0,Texas
+48089,2020-04-10,Jack,1,0,Texas
+48090,2020-04-10,Jackson,4,0,Texas
+48091,2020-04-10,Jasper,6,1,Texas
+48092,2020-04-10,Jefferson,94,5,Texas
+48093,2020-04-10,Jim Wells,2,0,Texas
+48094,2020-04-10,Johnson,30,1,Texas
+48095,2020-04-10,Jones,2,0,Texas
+48096,2020-04-10,Karnes,2,0,Texas
+48097,2020-04-10,Kaufman,24,0,Texas
+48098,2020-04-10,Kendall,10,0,Texas
+48099,2020-04-10,Kerr,2,0,Texas
+48100,2020-04-10,Kleberg,2,0,Texas
+48101,2020-04-10,Knox,1,0,Texas
+48102,2020-04-10,Lamar,8,0,Texas
+48103,2020-04-10,Lamb,1,0,Texas
+48104,2020-04-10,Lampasas,3,0,Texas
+48105,2020-04-10,Lavaca,4,0,Texas
+48106,2020-04-10,Lee,2,0,Texas
+48107,2020-04-10,Leon,3,0,Texas
+48108,2020-04-10,Liberty,16,0,Texas
+48109,2020-04-10,Limestone,9,1,Texas
+48110,2020-04-10,Live Oak,3,0,Texas
+48111,2020-04-10,Llano,3,0,Texas
+48112,2020-04-10,Lubbock,234,9,Texas
+48113,2020-04-10,Lynn,5,0,Texas
+48114,2020-04-10,Madison,1,0,Texas
+48115,2020-04-10,Martin,2,0,Texas
+48116,2020-04-10,Mason,1,0,Texas
+48117,2020-04-10,Matagorda,49,3,Texas
+48118,2020-04-10,Maverick,9,0,Texas
+48119,2020-04-10,McCulloch,2,0,Texas
+48120,2020-04-10,McLennan,68,2,Texas
+48121,2020-04-10,Medina,10,1,Texas
+48122,2020-04-10,Midland,31,1,Texas
+48123,2020-04-10,Milam,7,0,Texas
+48124,2020-04-10,Mitchell,1,0,Texas
+48125,2020-04-10,Montague,1,0,Texas
+48126,2020-04-10,Montgomery,231,4,Texas
+48127,2020-04-10,Moore,21,0,Texas
+48128,2020-04-10,Morris,3,0,Texas
+48129,2020-04-10,Nacogdoches,29,2,Texas
+48130,2020-04-10,Navarro,11,2,Texas
+48131,2020-04-10,Newton,1,0,Texas
+48132,2020-04-10,Nueces,72,0,Texas
+48133,2020-04-10,Oldham,3,1,Texas
+48134,2020-04-10,Orange,31,0,Texas
+48135,2020-04-10,Palo Pinto,4,0,Texas
+48136,2020-04-10,Panola,10,1,Texas
+48137,2020-04-10,Parker,11,0,Texas
+48138,2020-04-10,Pecos,1,0,Texas
+48139,2020-04-10,Polk,9,0,Texas
+48140,2020-04-10,Potter,66,2,Texas
+48141,2020-04-10,Rains,1,0,Texas
+48142,2020-04-10,Randall,60,2,Texas
+48143,2020-04-10,Robertson,2,0,Texas
+48144,2020-04-10,Rockwall,16,0,Texas
+48145,2020-04-10,Rusk,14,0,Texas
+48146,2020-04-10,Sabine,1,0,Texas
+48147,2020-04-10,San Augustine,9,1,Texas
+48148,2020-04-10,San Jacinto,3,0,Texas
+48149,2020-04-10,San Patricio,7,0,Texas
+48150,2020-04-10,Scurry,1,0,Texas
+48151,2020-04-10,Shelby,31,0,Texas
+48152,2020-04-10,Smith,93,2,Texas
+48153,2020-04-10,Starr,7,0,Texas
+48154,2020-04-10,Stephens,1,0,Texas
+48155,2020-04-10,Swisher,3,0,Texas
+48156,2020-04-10,Tarrant,705,21,Texas
+48157,2020-04-10,Taylor,51,1,Texas
+48158,2020-04-10,Terry,6,0,Texas
+48159,2020-04-10,Titus,6,0,Texas
+48160,2020-04-10,Tom Green,32,1,Texas
+48161,2020-04-10,Travis,642,7,Texas
+48162,2020-04-10,Trinity,3,0,Texas
+48163,2020-04-10,Tyler,4,0,Texas
+48164,2020-04-10,Upshur,6,0,Texas
+48165,2020-04-10,Uvalde,7,0,Texas
+48166,2020-04-10,Val Verde,12,0,Texas
+48167,2020-04-10,Van Zandt,10,1,Texas
+48168,2020-04-10,Victoria,73,0,Texas
+48169,2020-04-10,Walker,18,0,Texas
+48170,2020-04-10,Waller,13,0,Texas
+48171,2020-04-10,Washington,36,1,Texas
+48172,2020-04-10,Webb,166,6,Texas
+48173,2020-04-10,Wharton,20,0,Texas
+48174,2020-04-10,Wichita,54,0,Texas
+48175,2020-04-10,Willacy,5,1,Texas
+48176,2020-04-10,Williamson,110,4,Texas
+48177,2020-04-10,Wilson,10,0,Texas
+48178,2020-04-10,Winkler,1,0,Texas
+48179,2020-04-10,Wise,4,0,Texas
+48180,2020-04-10,Wood,5,0,Texas
+48181,2020-04-10,Young,3,0,Texas
+48182,2020-04-10,Zapata,3,0,Texas
+48183,2020-04-10,Box Elder,12,0,Utah
+48184,2020-04-10,Cache,30,0,Utah
+48185,2020-04-10,Carbon,2,0,Utah
+48186,2020-04-10,Davis,180,2,Utah
+48187,2020-04-10,Duchesne,3,0,Utah
+48188,2020-04-10,Emery,2,0,Utah
+48189,2020-04-10,Garfield,1,0,Utah
+48190,2020-04-10,Grand,1,0,Utah
+48191,2020-04-10,Iron,13,0,Utah
+48192,2020-04-10,Juab,2,0,Utah
+48193,2020-04-10,Kane,3,0,Utah
+48194,2020-04-10,Millard,4,0,Utah
+48195,2020-04-10,Salt Lake,1011,7,Utah
+48196,2020-04-10,San Juan,6,0,Utah
+48197,2020-04-10,Summit,296,0,Utah
+48198,2020-04-10,Tooele,28,0,Utah
+48199,2020-04-10,Uintah,5,0,Utah
+48200,2020-04-10,Unknown,0,7,Utah
+48201,2020-04-10,Utah,283,0,Utah
+48202,2020-04-10,Wasatch,96,0,Utah
+48203,2020-04-10,Washington,35,0,Utah
+48204,2020-04-10,Weber,90,1,Utah
+48205,2020-04-10,Addison,50,0,Vermont
+48206,2020-04-10,Bennington,31,1,Vermont
+48207,2020-04-10,Caledonia,8,0,Vermont
+48208,2020-04-10,Chittenden,336,15,Vermont
+48209,2020-04-10,Essex,1,0,Vermont
+48210,2020-04-10,Franklin,68,3,Vermont
+48211,2020-04-10,Grand Isle,3,0,Vermont
+48212,2020-04-10,Lamoille,19,1,Vermont
+48213,2020-04-10,Orange,5,0,Vermont
+48214,2020-04-10,Orleans,8,0,Vermont
+48215,2020-04-10,Rutland,34,0,Vermont
+48216,2020-04-10,Unknown,26,1,Vermont
+48217,2020-04-10,Washington,24,0,Vermont
+48218,2020-04-10,Windham,42,1,Vermont
+48219,2020-04-10,Windsor,24,2,Vermont
+48220,2020-04-10,Unknown,46,1,Virgin Islands
+48221,2020-04-10,Accomack,12,0,Virginia
+48222,2020-04-10,Albemarle,43,0,Virginia
+48223,2020-04-10,Alexandria city,174,1,Virginia
+48224,2020-04-10,Alleghany,2,0,Virginia
+48225,2020-04-10,Amelia,9,0,Virginia
+48226,2020-04-10,Amherst,9,0,Virginia
+48227,2020-04-10,Appomattox,5,0,Virginia
+48228,2020-04-10,Arlington,312,2,Virginia
+48229,2020-04-10,Augusta,15,0,Virginia
+48230,2020-04-10,Bedford,15,0,Virginia
+48231,2020-04-10,Botetourt,21,0,Virginia
+48232,2020-04-10,Bristol city,1,0,Virginia
+48233,2020-04-10,Brunswick,2,0,Virginia
+48234,2020-04-10,Buchanan,1,0,Virginia
+48235,2020-04-10,Buckingham,10,0,Virginia
+48236,2020-04-10,Buena Vista city,4,0,Virginia
+48237,2020-04-10,Campbell,7,0,Virginia
+48238,2020-04-10,Caroline,6,0,Virginia
+48239,2020-04-10,Carroll,3,0,Virginia
+48240,2020-04-10,Charles City,7,0,Virginia
+48241,2020-04-10,Charlotte,2,0,Virginia
+48242,2020-04-10,Charlottesville city,28,1,Virginia
+48243,2020-04-10,Chesapeake city,109,1,Virginia
+48244,2020-04-10,Chesterfield,179,0,Virginia
+48245,2020-04-10,Clarke,3,0,Virginia
+48246,2020-04-10,Colonial Heights city,4,0,Virginia
+48247,2020-04-10,Covington city,1,0,Virginia
+48248,2020-04-10,Craig,2,0,Virginia
+48249,2020-04-10,Culpeper,14,0,Virginia
+48250,2020-04-10,Cumberland,8,0,Virginia
+48251,2020-04-10,Danville city,20,0,Virginia
+48252,2020-04-10,Dinwiddie,3,0,Virginia
+48253,2020-04-10,Emporia city,5,0,Virginia
+48254,2020-04-10,Fairfax,777,16,Virginia
+48255,2020-04-10,Fairfax city,1,0,Virginia
+48256,2020-04-10,Fauquier,23,0,Virginia
+48257,2020-04-10,Floyd,1,0,Virginia
+48258,2020-04-10,Fluvanna,15,0,Virginia
+48259,2020-04-10,Franklin,13,0,Virginia
+48260,2020-04-10,Franklin city,6,0,Virginia
+48261,2020-04-10,Frederick,62,0,Virginia
+48262,2020-04-10,Fredericksburg city,10,0,Virginia
+48263,2020-04-10,Galax city,1,0,Virginia
+48264,2020-04-10,Giles,2,0,Virginia
+48265,2020-04-10,Gloucester,18,0,Virginia
+48266,2020-04-10,Goochland,26,0,Virginia
+48267,2020-04-10,Greene,4,0,Virginia
+48268,2020-04-10,Greensville,7,0,Virginia
+48269,2020-04-10,Halifax,5,0,Virginia
+48270,2020-04-10,Hampton city,62,1,Virginia
+48271,2020-04-10,Hanover,31,0,Virginia
+48272,2020-04-10,Harrisonburg city,57,0,Virginia
+48273,2020-04-10,Henrico,342,35,Virginia
+48274,2020-04-10,Henry,5,0,Virginia
+48275,2020-04-10,Hopewell city,14,0,Virginia
+48276,2020-04-10,Isle of Wight,24,0,Virginia
+48277,2020-04-10,James City,125,3,Virginia
+48278,2020-04-10,King George,14,0,Virginia
+48279,2020-04-10,King William,2,0,Virginia
+48280,2020-04-10,King and Queen,2,0,Virginia
+48281,2020-04-10,Lancaster,1,0,Virginia
+48282,2020-04-10,Lee,3,0,Virginia
+48283,2020-04-10,Lexington city,3,0,Virginia
+48284,2020-04-10,Loudoun,274,0,Virginia
+48285,2020-04-10,Louisa,20,0,Virginia
+48286,2020-04-10,Lunenburg,2,0,Virginia
+48287,2020-04-10,Lynchburg city,27,0,Virginia
+48288,2020-04-10,Madison,5,0,Virginia
+48289,2020-04-10,Manassas Park city,7,0,Virginia
+48290,2020-04-10,Manassas city,29,0,Virginia
+48291,2020-04-10,Mathews,2,0,Virginia
+48292,2020-04-10,Mecklenburg,48,0,Virginia
+48293,2020-04-10,Middlesex,3,0,Virginia
+48294,2020-04-10,Montgomery,18,0,Virginia
+48295,2020-04-10,Nelson,4,0,Virginia
+48296,2020-04-10,New Kent,13,0,Virginia
+48297,2020-04-10,Newport News city,68,1,Virginia
+48298,2020-04-10,Norfolk city,88,1,Virginia
+48299,2020-04-10,Northampton,4,0,Virginia
+48300,2020-04-10,Northumberland,3,0,Virginia
+48301,2020-04-10,Nottoway,3,0,Virginia
+48302,2020-04-10,Orange,14,0,Virginia
+48303,2020-04-10,Page,5,0,Virginia
+48304,2020-04-10,Petersburg city,13,0,Virginia
+48305,2020-04-10,Pittsylvania,4,0,Virginia
+48306,2020-04-10,Poquoson city,6,0,Virginia
+48307,2020-04-10,Portsmouth city,48,1,Virginia
+48308,2020-04-10,Powhatan,4,0,Virginia
+48309,2020-04-10,Prince Edward,5,0,Virginia
+48310,2020-04-10,Prince George,26,0,Virginia
+48311,2020-04-10,Prince William,337,1,Virginia
+48312,2020-04-10,Pulaski,4,0,Virginia
+48313,2020-04-10,Radford city,1,0,Virginia
+48314,2020-04-10,Rappahannock,1,0,Virginia
+48315,2020-04-10,Richmond,5,0,Virginia
+48316,2020-04-10,Richmond city,139,2,Virginia
+48317,2020-04-10,Roanoke,13,0,Virginia
+48318,2020-04-10,Roanoke city,16,0,Virginia
+48319,2020-04-10,Rockbridge,3,0,Virginia
+48320,2020-04-10,Rockingham,31,0,Virginia
+48321,2020-04-10,Russell,1,0,Virginia
+48322,2020-04-10,Salem city,1,0,Virginia
+48323,2020-04-10,Scott,3,0,Virginia
+48324,2020-04-10,Shenandoah,15,0,Virginia
+48325,2020-04-10,Smyth,9,0,Virginia
+48326,2020-04-10,Southampton,5,0,Virginia
+48327,2020-04-10,Spotsylvania,43,0,Virginia
+48328,2020-04-10,Stafford,60,0,Virginia
+48329,2020-04-10,Staunton city,1,0,Virginia
+48330,2020-04-10,Suffolk city,35,0,Virginia
+48331,2020-04-10,Surry,3,0,Virginia
+48332,2020-04-10,Sussex,8,0,Virginia
+48333,2020-04-10,Tazewell,4,0,Virginia
+48334,2020-04-10,Unknown,0,52,Virginia
+48335,2020-04-10,Virginia Beach city,224,1,Virginia
+48336,2020-04-10,Warren,10,0,Virginia
+48337,2020-04-10,Washington,17,0,Virginia
+48338,2020-04-10,Waynesboro city,5,0,Virginia
+48339,2020-04-10,Westmoreland,8,0,Virginia
+48340,2020-04-10,Williamsburg city,17,1,Virginia
+48341,2020-04-10,Winchester city,16,0,Virginia
+48342,2020-04-10,Wise,8,0,Virginia
+48343,2020-04-10,Wythe,7,0,Virginia
+48344,2020-04-10,York,25,1,Virginia
+48345,2020-04-10,Adams,30,0,Washington
+48346,2020-04-10,Asotin,4,0,Washington
+48347,2020-04-10,Benton,234,25,Washington
+48348,2020-04-10,Chelan,45,3,Washington
+48349,2020-04-10,Clallam,11,0,Washington
+48350,2020-04-10,Clark,220,14,Washington
+48351,2020-04-10,Columbia,1,0,Washington
+48352,2020-04-10,Cowlitz,23,0,Washington
+48353,2020-04-10,Douglas,16,0,Washington
+48354,2020-04-10,Ferry,1,0,Washington
+48355,2020-04-10,Franklin,107,2,Washington
+48356,2020-04-10,Grant,101,2,Washington
+48357,2020-04-10,Grays Harbor,8,0,Washington
+48358,2020-04-10,Island,155,7,Washington
+48359,2020-04-10,Jefferson,28,0,Washington
+48360,2020-04-10,King,4119,279,Washington
+48361,2020-04-10,Kitsap,128,1,Washington
+48362,2020-04-10,Kittitas,15,0,Washington
+48363,2020-04-10,Klickitat,12,1,Washington
+48364,2020-04-10,Lewis,18,2,Washington
+48365,2020-04-10,Lincoln,1,0,Washington
+48366,2020-04-10,Mason,18,0,Washington
+48367,2020-04-10,Okanogan,14,0,Washington
+48368,2020-04-10,Pacific,1,0,Washington
+48369,2020-04-10,Pend Oreille,1,0,Washington
+48370,2020-04-10,Pierce,881,19,Washington
+48371,2020-04-10,San Juan,12,0,Washington
+48372,2020-04-10,Skagit,178,5,Washington
+48373,2020-04-10,Skamania,2,0,Washington
+48374,2020-04-10,Snohomish,1801,66,Washington
+48375,2020-04-10,Spokane,255,14,Washington
+48376,2020-04-10,Stevens,6,0,Washington
+48377,2020-04-10,Thurston,81,1,Washington
+48378,2020-04-10,Unknown,627,0,Washington
+48379,2020-04-10,Wahkiakum,2,0,Washington
+48380,2020-04-10,Walla Walla,21,0,Washington
+48381,2020-04-10,Whatcom,250,23,Washington
+48382,2020-04-10,Whitman,13,0,Washington
+48383,2020-04-10,Yakima,447,19,Washington
+48384,2020-04-10,Barbour,5,0,West Virginia
+48385,2020-04-10,Berkeley,83,0,West Virginia
+48386,2020-04-10,Boone,1,0,West Virginia
+48387,2020-04-10,Braxton,1,0,West Virginia
+48388,2020-04-10,Brooke,2,0,West Virginia
+48389,2020-04-10,Cabell,17,0,West Virginia
+48390,2020-04-10,Fayette,1,0,West Virginia
+48391,2020-04-10,Greenbrier,3,0,West Virginia
+48392,2020-04-10,Hampshire,2,0,West Virginia
+48393,2020-04-10,Hancock,7,0,West Virginia
+48394,2020-04-10,Hardy,2,0,West Virginia
+48395,2020-04-10,Harrison,28,1,West Virginia
+48396,2020-04-10,Jackson,20,1,West Virginia
+48397,2020-04-10,Jefferson,44,0,West Virginia
+48398,2020-04-10,Kanawha,74,0,West Virginia
+48399,2020-04-10,Lewis,2,0,West Virginia
+48400,2020-04-10,Logan,8,0,West Virginia
+48401,2020-04-10,Marion,31,1,West Virginia
+48402,2020-04-10,Marshall,6,0,West Virginia
+48403,2020-04-10,Mason,6,0,West Virginia
+48404,2020-04-10,McDowell,4,0,West Virginia
+48405,2020-04-10,Mercer,7,0,West Virginia
+48406,2020-04-10,Mineral,3,0,West Virginia
+48407,2020-04-10,Monongalia,76,2,West Virginia
+48408,2020-04-10,Morgan,4,0,West Virginia
+48409,2020-04-10,Nicholas,2,0,West Virginia
+48410,2020-04-10,Ohio,21,0,West Virginia
+48411,2020-04-10,Pendleton,1,0,West Virginia
+48412,2020-04-10,Pleasants,1,0,West Virginia
+48413,2020-04-10,Preston,6,0,West Virginia
+48414,2020-04-10,Putnam,11,0,West Virginia
+48415,2020-04-10,Raleigh,5,0,West Virginia
+48416,2020-04-10,Randolph,3,0,West Virginia
+48417,2020-04-10,Roane,3,0,West Virginia
+48418,2020-04-10,Taylor,3,0,West Virginia
+48419,2020-04-10,Tucker,3,0,West Virginia
+48420,2020-04-10,Tyler,2,0,West Virginia
+48421,2020-04-10,Upshur,2,0,West Virginia
+48422,2020-04-10,Wayne,16,0,West Virginia
+48423,2020-04-10,Wetzel,3,0,West Virginia
+48424,2020-04-10,Wirt,1,0,West Virginia
+48425,2020-04-10,Wood,16,0,West Virginia
+48426,2020-04-10,Wyoming,1,0,West Virginia
+48427,2020-04-10,Adams,2,0,Wisconsin
+48428,2020-04-10,Ashland,1,0,Wisconsin
+48429,2020-04-10,Barron,6,0,Wisconsin
+48430,2020-04-10,Bayfield,3,0,Wisconsin
+48431,2020-04-10,Brown,55,1,Wisconsin
+48432,2020-04-10,Buffalo,2,1,Wisconsin
+48433,2020-04-10,Calumet,4,0,Wisconsin
+48434,2020-04-10,Chippewa,18,0,Wisconsin
+48435,2020-04-10,Clark,7,0,Wisconsin
+48436,2020-04-10,Columbia,24,1,Wisconsin
+48437,2020-04-10,Crawford,3,0,Wisconsin
+48438,2020-04-10,Dane,313,12,Wisconsin
+48439,2020-04-10,Dodge,18,0,Wisconsin
+48440,2020-04-10,Door,8,0,Wisconsin
+48441,2020-04-10,Douglas,7,0,Wisconsin
+48442,2020-04-10,Dunn,8,0,Wisconsin
+48443,2020-04-10,Eau Claire,21,0,Wisconsin
+48444,2020-04-10,Florence,2,0,Wisconsin
+48445,2020-04-10,Fond du Lac,52,2,Wisconsin
+48446,2020-04-10,Grant,4,1,Wisconsin
+48447,2020-04-10,Green,9,0,Wisconsin
+48448,2020-04-10,Iowa,4,0,Wisconsin
+48449,2020-04-10,Iron,1,1,Wisconsin
+48450,2020-04-10,Jackson,10,0,Wisconsin
+48451,2020-04-10,Jefferson,21,0,Wisconsin
+48452,2020-04-10,Juneau,5,0,Wisconsin
+48453,2020-04-10,Kenosha,147,1,Wisconsin
+48454,2020-04-10,Kewaunee,1,0,Wisconsin
+48455,2020-04-10,La Crosse,25,0,Wisconsin
+48456,2020-04-10,Lafayette,2,0,Wisconsin
+48457,2020-04-10,Manitowoc,3,0,Wisconsin
+48458,2020-04-10,Marathon,12,0,Wisconsin
+48459,2020-04-10,Marinette,3,0,Wisconsin
+48460,2020-04-10,Marquette,2,0,Wisconsin
+48461,2020-04-10,Menominee,1,0,Wisconsin
+48462,2020-04-10,Milwaukee,1575,77,Wisconsin
+48463,2020-04-10,Monroe,8,0,Wisconsin
+48464,2020-04-10,Oconto,3,0,Wisconsin
+48465,2020-04-10,Oneida,5,0,Wisconsin
+48466,2020-04-10,Outagamie,29,2,Wisconsin
+48467,2020-04-10,Ozaukee,71,12,Wisconsin
+48468,2020-04-10,Pierce,7,0,Wisconsin
+48469,2020-04-10,Polk,1,0,Wisconsin
+48470,2020-04-10,Portage,4,0,Wisconsin
+48471,2020-04-10,Racine,100,3,Wisconsin
+48472,2020-04-10,Richland,4,0,Wisconsin
+48473,2020-04-10,Rock,51,2,Wisconsin
+48474,2020-04-10,Rusk,3,0,Wisconsin
+48475,2020-04-10,Sauk,25,2,Wisconsin
+48476,2020-04-10,Sawyer,1,0,Wisconsin
+48477,2020-04-10,Shawano,5,0,Wisconsin
+48478,2020-04-10,Sheboygan,33,2,Wisconsin
+48479,2020-04-10,St. Croix,7,0,Wisconsin
+48480,2020-04-10,Trempealeau,1,0,Wisconsin
+48481,2020-04-10,Vilas,4,0,Wisconsin
+48482,2020-04-10,Walworth,35,0,Wisconsin
+48483,2020-04-10,Washington,67,3,Wisconsin
+48484,2020-04-10,Waukesha,193,6,Wisconsin
+48485,2020-04-10,Waupaca,3,1,Wisconsin
+48486,2020-04-10,Waushara,2,0,Wisconsin
+48487,2020-04-10,Winnebago,25,1,Wisconsin
+48488,2020-04-10,Wood,2,0,Wisconsin
+48489,2020-04-10,Albany,4,0,Wyoming
+48490,2020-04-10,Campbell,9,0,Wyoming
+48491,2020-04-10,Carbon,4,0,Wyoming
+48492,2020-04-10,Converse,4,0,Wyoming
+48493,2020-04-10,Crook,3,0,Wyoming
+48494,2020-04-10,Fremont,38,0,Wyoming
+48495,2020-04-10,Goshen,3,0,Wyoming
+48496,2020-04-10,Hot Springs,1,0,Wyoming
+48497,2020-04-10,Johnson,9,0,Wyoming
+48498,2020-04-10,Laramie,54,0,Wyoming
+48499,2020-04-10,Lincoln,4,0,Wyoming
+48500,2020-04-10,Natrona,27,0,Wyoming
+48501,2020-04-10,Niobrara,1,0,Wyoming
+48502,2020-04-10,Park,1,0,Wyoming
+48503,2020-04-10,Sheridan,12,0,Wyoming
+48504,2020-04-10,Sublette,1,0,Wyoming
+48505,2020-04-10,Sweetwater,6,0,Wyoming
+48506,2020-04-10,Teton,50,0,Wyoming
+48507,2020-04-10,Uinta,4,0,Wyoming
+48508,2020-04-10,Washakie,4,0,Wyoming
